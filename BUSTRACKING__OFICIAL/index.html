@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mobilidade urbana inteligente — BUSTRACKING</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/header.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body class="home">
+  <!-- Fundo cinematográfico: visão pela janela de um ônibus em movimento. -->
+  <div class="cinematic-backdrop" aria-hidden="true">
+    <div class="travel-scene">
+      <div class="scene-layer scene-sky"></div>
+      <div class="scene-layer scene-city scene-city-back"></div>
+      <div class="scene-layer scene-city scene-city-mid"></div>
+      <div class="scene-layer scene-trees scene-trees-back"></div>
+      <div class="scene-layer scene-trees scene-trees-front"></div>
+      <div class="scene-road"></div>
+      <div class="scene-light-trails"></div>
+    </div>
+
+    <div class="window-glass">
+      <div class="glass-reflection reflection-one"></div>
+      <div class="glass-reflection reflection-two"></div>
+      <div class="window-frame window-frame-top"></div>
+      <div class="window-frame window-frame-left"></div>
+      <div class="window-frame window-frame-right"></div>
+      <div class="window-frame window-frame-bottom"></div>
+      <div class="window-seal"></div>
+    </div>
+
+    <div class="cinematic-vignette"></div>
+    <div class="speed-blur blur-top"></div>
+    <div class="speed-blur blur-bottom"></div>
+    <div class="cinematic-grain"></div>
+    <div class="scene-caption">ROTA 101 <span>•</span> EM MOVIMENTO</div>
+  </div>
+
+  <!-- Cabeçalho compartilhado carregado por JavaScript. -->
+  <header class="site-header" data-header>
+<a class="brand" href="index.html" aria-label="BUSTRACKING — página inicial">
+  <span class="brand-mark">BUS</span>
+  <span>TRACKING</span>
+</a>
+
+<nav class="main-nav" aria-label="Navegação principal">
+  <ul>
+    <li><a href="index.html">Início</a></li>
+    <li><a href="index.html#funcionalidades">Funcionalidades</a></li>
+    <li><a href="index.html#como-funciona">Como funciona</a></li>
+    <li><a href="rastrear.html">Rastrear ônibus</a></li>
+    <li><a href="itinerarios.html">Itinerários</a></li>
+    <li><a href="horarios.html">Horários</a></li>
+    <li><a href="pontos.html">Pontos de parada</a></li>
+  </ul>
+</nav>
+
+<div class="header-actions">
+  <a class="btn btn-ghost btn-sm" href="login.html">Entrar</a>
+  <a class="btn btn-primary btn-sm" href="cadastro.html">Criar conta</a>
+</div>
+
+<button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="mobile-menu">
+  <span aria-hidden="true">☰</span>
+</button>
+
+<nav class="mobile-nav" id="mobile-menu" aria-label="Navegação móvel" hidden>
+  <ul>
+    <li><a href="index.html">Início</a></li>
+    <li><a href="index.html#funcionalidades">Funcionalidades</a></li>
+    <li><a href="index.html#como-funciona">Como funciona</a></li>
+    <li><a href="rastrear.html">Rastrear ônibus</a></li>
+    <li><a href="itinerarios.html">Itinerários</a></li>
+    <li><a href="horarios.html">Horários</a></li>
+    <li><a href="pontos.html">Pontos de parada</a></li>
+    <li><a href="login.html">Entrar</a></li>
+    <li><a href="cadastro.html">Criar conta</a></li>
+  </ul>
+</nav>
+</header>
+
+<!-- Conteúdo principal da página. -->
+<main>
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <span class="eyebrow">Mobilidade urbana inteligente</span>
+        <h1 id="hero-title">Seu ônibus. Seu caminho. Em tempo real.</h1>
+        <p class="lead">Acompanhe seus ônibus, consulte itinerários e horários e tenha mais praticidade para planejar sua viagem.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="rastrear.html">Rastrear ônibus →</a>
+          <a class="btn btn-ghost" href="itinerarios.html">Ver itinerários</a>
+        </div>
+
+        <div class="stats" aria-label="Estatísticas do sistema">
+          <article class="stat"><strong id="bus-count">0</strong><span class="muted">ônibus simulados</span></article>
+          <article class="stat"><strong id="line-count">0</strong><span class="muted">linhas</span></article>
+          <article class="stat"><strong id="stop-count">0</strong><span class="muted">pontos de parada</span></article>
+        </div>
+      </div>
+
+      <article class="hero-card" aria-label="Prévia do mapa de rastreamento">
+        <div class="mock-map">
+          <div class="map-road" aria-hidden="true"></div>
+          <div class="map-road r2" aria-hidden="true"></div>
+          <div class="map-road r3" aria-hidden="true"></div>
+          <div class="map-pin pin1" aria-hidden="true">🚌</div>
+          <div class="map-pin pin2" aria-hidden="true">●</div>
+          <div class="map-pin pin3" aria-hidden="true">●</div>
+          <div class="bus-card"><strong>Ônibus 101</strong><br><span class="muted">Atualização em tempo real</span></div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="section" id="funcionalidades" aria-labelledby="features-title">
+    <header class="section-head">
+        <h2 id="features-title">Principais funcionalidades</h2>
+        <p class="muted">Tudo o que você precisa para planejar o trajeto e chegar no horário.</p>
+    </header>
+
+    <div class="feature-grid">
+        <article class="feature reveal">
+          <div class="icon" aria-hidden="true">📍</div>
+          <h3>Rastreamento em tempo real</h3>
+          <p class="muted">Veja onde cada ônibus está no mapa, com velocidade, status e atualização contínua.</p>
+        </article>
+        <article class="feature reveal">
+          <div class="icon" aria-hidden="true">↔</div>
+          <h3>Consulta de itinerários</h3>
+          <p class="muted">Todas as linhas, com origem, destino, sentido e a sequência completa de pontos.</p>
+        </article>
+        <article class="feature reveal">
+          <div class="icon" aria-hidden="true">◷</div>
+          <h3>Horários dos ônibus</h3>
+          <p class="muted">Grade por linha, dia da semana e sentido, com busca e filtros rápidos.</p>
+        </article>
+        <article class="feature reveal">
+          <div class="icon" aria-hidden="true">⌖</div>
+          <h3>Localização dos pontos</h3>
+          <p class="muted">Encontre paradas próximas, endereços e as linhas que passam por cada ponto.</p>
+        </article>
+    </div>
+  </section>
+
+  <section class="section section--surface" id="como-funciona" aria-labelledby="steps-title">
+    <header class="section-head">
+        <h2 id="steps-title">Como funciona?</h2>
+    </header>
+    <div class="steps">
+        <article class="card reveal"><div class="step-num">01</div><h3>Crie sua conta</h3><p class="muted">Cadastro rápido com e-mail e senha.</p></article>
+        <article class="card reveal"><div class="step-num">02</div><h3>Busque sua linha</h3><p class="muted">Pesquise por número, nome ou destino.</p></article>
+        <article class="card reveal"><div class="step-num">03</div><h3>Acompanhe no mapa</h3><p class="muted">Siga o ônibus e receba a previsão de chegada.</p></article>
+    </div>
+  </section>
+</main>
+
+<!-- Rodapé com informações e contatos do projeto. -->
+<footer class="footer">
+  <section class="footer-grid" aria-label="Informações do BUSTRACKING">
+    <div>
+      <strong>BUSTRACKING</strong>
+      <p>Plataforma acadêmica de rastreamento e informações de transporte público urbano.</p>
+    </div>
+    <div>
+      <strong>Contato</strong>
+      <p class="footer-links"><a href="mailto:contato@bustracking.example">E-mail</a><a href="index.html">Início</a></p>
+    </div>
+  </section>
+  <div class="notice">Aviso: os dados exibidos são fictícios e servem apenas para demonstração.</div>
+  <p>© 2026 BUSTRACKING — Projeto acadêmico de Sistemas de Informação.</p>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/parallax.js"></script>
+</body>
+</html>
