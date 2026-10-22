@@ -1,0 +1,111 @@
+/* =========================================================
+   BUSTRACKING — Regras responsivas
+   ========================================================= */
+
+@media (max-width: 56.25rem) {
+  .hero-grid,
+  .map-layout,
+  .live-layout,
+  .stop-layout,
+  .auth-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .feature-grid { grid-template-columns: repeat(2, 1fr); }
+  .steps { grid-template-columns: 1fr; }
+  .line-grid { grid-template-columns: 1fr; }
+
+  .live-sidebar,
+  .stop-sidebar {
+    border-inline-end: 0;
+    border-block-end: var(--border-width) solid #e4ebea;
+  }
+
+  .map-panel { min-block-size: 28rem; }
+  .auth-side { display: none; }
+  .auth-form-panel { border-inline-start: 0; padding-block: 2.1875rem; }
+  .route-heading { align-items: flex-start; flex-direction: column; }
+}
+
+@media (max-width: 37.5rem) {
+  .feature-grid { grid-template-columns: 1fr; }
+  .stats { grid-template-columns: 1fr; }
+  .hero h1 { font-size: clamp(2.75rem, 13vw, 3.25rem); }
+  .hero-actions .btn { inline-size: 100%; }
+  .footer-grid { grid-template-columns: 1fr; }
+  .auth-card { padding: 1.5rem; }
+}
+
+@media (max-width: 37.5rem) {
+  .hero-grid,
+  .section > *,
+  .route-page > *,
+  .footer > * {
+    inline-size: min(100% - 1.5rem, 73.75rem);
+  }
+}
+
+@media (max-width: 56.25rem) {
+  .schedule-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 68.75rem) {
+  .main-nav {
+    display: none;
+  }
+
+  .header-actions {
+    margin-inline-start: auto;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  .mobile-nav[hidden] {
+    display: none;
+  }
+
+  .mobile-nav:not([hidden]) {
+    position: absolute;
+    inset-block-start: 100%;
+    inset-inline: 1rem;
+    display: block;
+    padding: 1rem;
+    background: var(--surface);
+    border: var(--border-width) solid var(--border-color);
+    border-radius: 0 0 .875rem .875rem;
+    box-shadow: var(--shadow);
+  }
+
+  .mobile-nav ul {
+    display: grid;
+    gap: .25rem;
+  }
+
+  .mobile-nav a {
+    display: block;
+    padding: .75rem;
+    border-radius: .5rem;
+    color: #475569;
+    font-weight: 700;
+  }
+
+  .mobile-nav a:hover,
+  .mobile-nav a:focus-visible {
+    background: var(--primary-soft);
+    color: var(--primary-dark);
+  }
+}
+
+@media (max-width: 37.5rem) {
+  .header-actions .btn-ghost {
+    display: none;
+  }
+
+  .site-header {
+    padding-inline: 1rem;
+  }
+}

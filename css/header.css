@@ -1,0 +1,82 @@
+/* =========================================================
+   BUSTRACKING — Cabeçalho e navegação
+   ========================================================= */
+
+.site-header {
+  position: sticky;
+  z-index: 20;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: clamp(1rem, 3vw, 2rem);
+  min-height: 4.5rem;
+  padding-block: .75rem;
+  padding-inline: max(1rem, calc((100% - 73.75rem) / 2));
+  background: rgb(255 255 255 / 96%);
+  border-bottom: var(--border-width) solid var(--border-color);
+  backdrop-filter: blur(.75rem);
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+  flex-shrink: 0;
+  font-size: 1.25rem;
+  font-weight: 900;
+  letter-spacing: -.05em;
+}
+
+.brand-mark {
+  display: inline-block;
+  padding: .3rem .45rem;
+  color: #fff;
+  background: var(--primary);
+  border-radius: .45rem;
+  font-size: .75rem;
+  letter-spacing: .03em;
+}
+
+.main-nav {
+  flex: 1;
+}
+
+.main-nav ul,
+.mobile-nav ul {
+  display: flex;
+  align-items: center;
+  gap: clamp(.75rem, 2vw, 1.5rem);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.main-nav a {
+  color: #475569;
+  font-size: .875rem;
+  font-weight: 600;
+}
+
+.main-nav a:hover,
+.main-nav a:focus-visible {
+  color: var(--primary);
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: .625rem;
+}
+
+.menu-toggle {
+  display: none;
+  padding: .5rem;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font-size: 1.5rem;
+}
+
+.mobile-nav {
+  display: none;
+}

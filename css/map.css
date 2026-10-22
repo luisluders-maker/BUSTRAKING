@@ -1,0 +1,67 @@
+/* =========================================================
+   BUSTRACKING — Mapa (Leaflet)
+   Carregue DEPOIS do CSS do Leaflet.
+   ========================================================= */
+
+.map-panel { overflow: hidden; }
+
+/* O mapa ocupa o painel inteiro; os cartões ficam por cima dele. */
+.map-canvas {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.map-panel > .map-label,
+.map-panel > .route-popup {
+  z-index: 2;
+}
+
+.map-panel .leaflet-container {
+  font: inherit;
+}
+
+.map-fallback {
+  position: absolute;
+  inset: 50% 1.5rem auto;
+  margin: 0;
+  transform: translateY(-50%);
+  color: var(--muted);
+  font-weight: 700;
+  text-align: center;
+}
+
+/* Marcador de ônibus */
+.bus-marker {
+  transition: transform 1s linear;
+}
+
+.leaflet-zoom-anim .bus-marker {
+  transition: transform .25s cubic-bezier(0, 0, .25, 1);
+}
+
+.bus-marker span {
+  display: grid;
+  place-items: center;
+  inline-size: 2.375rem;
+  aspect-ratio: 1;
+  border: .25rem solid var(--primary);
+  border-radius: 50%;
+  background: #fff;
+  color: var(--primary);
+  font-size: .6875rem;
+  font-weight: 900;
+  box-shadow: 0 .375rem 1rem rgb(15 23 42 / 25%);
+}
+
+.bus-marker.is-stopped span {
+  border-color: var(--warning);
+  color: var(--warning);
+}
+
+.bus-marker.is-selected span {
+  background: var(--primary);
+  border-color: #fff;
+  color: #fff;
+  box-shadow: 0 0 0 .1875rem var(--primary), 0 .375rem 1rem rgb(15 23 42 / 30%);
+}

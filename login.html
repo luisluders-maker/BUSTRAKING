@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Entrar — BUSTRACKING</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/header.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+  <!-- Fundo cinematográfico compartilhado: paisagem vista pela janela do ônibus. -->
+  <div class="cinematic-backdrop" aria-hidden="true">
+    <div class="travel-scene">
+      <div class="scene-layer scene-sky"></div>
+      <div class="scene-layer scene-city scene-city-back"></div>
+      <div class="scene-layer scene-city scene-city-mid"></div>
+      <div class="scene-layer scene-trees scene-trees-back"></div>
+      <div class="scene-layer scene-trees scene-trees-front"></div>
+      <div class="scene-road"></div>
+      <div class="scene-light-trails"></div>
+    </div>
+    <div class="window-glass">
+      <div class="glass-reflection reflection-one"></div>
+      <div class="glass-reflection reflection-two"></div>
+      <div class="window-frame window-frame-top"></div>
+      <div class="window-frame window-frame-left"></div>
+      <div class="window-frame window-frame-right"></div>
+      <div class="window-frame window-frame-bottom"></div>
+      <div class="window-seal"></div>
+    </div>
+    <div class="cinematic-vignette"></div>
+    <div class="speed-blur blur-top"></div>
+    <div class="speed-blur blur-bottom"></div>
+    <div class="cinematic-grain"></div>
+    <div class="scene-caption">ROTA 101 <span>•</span> EM MOVIMENTO</div>
+  </div>
+
+  <!-- Cabeçalho compartilhado carregado por JavaScript. -->
+  <header class="site-header" data-header>
+<a class="brand" href="index.html" aria-label="BUSTRACKING — página inicial">
+  <span class="brand-mark">BUS</span>
+  <span>TRACKING</span>
+</a>
+
+<nav class="main-nav" aria-label="Navegação principal">
+  <ul>
+    <li><a href="index.html">Início</a></li>
+    <li><a href="index.html#funcionalidades">Funcionalidades</a></li>
+    <li><a href="index.html#como-funciona">Como funciona</a></li>
+    <li><a href="rastrear.html">Rastrear ônibus</a></li>
+    <li><a href="itinerarios.html">Itinerários</a></li>
+    <li><a href="horarios.html">Horários</a></li>
+    <li><a href="pontos.html">Pontos de parada</a></li>
+  </ul>
+</nav>
+
+<div class="header-actions">
+  <a class="btn btn-ghost btn-sm" href="login.html">Entrar</a>
+  <a class="btn btn-primary btn-sm" href="cadastro.html">Criar conta</a>
+</div>
+
+<button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="mobile-menu">
+  <span aria-hidden="true">☰</span>
+</button>
+
+<nav class="mobile-nav" id="mobile-menu" aria-label="Navegação móvel" hidden>
+  <ul>
+    <li><a href="index.html">Início</a></li>
+    <li><a href="index.html#funcionalidades">Funcionalidades</a></li>
+    <li><a href="index.html#como-funciona">Como funciona</a></li>
+    <li><a href="rastrear.html">Rastrear ônibus</a></li>
+    <li><a href="itinerarios.html">Itinerários</a></li>
+    <li><a href="horarios.html">Horários</a></li>
+    <li><a href="pontos.html">Pontos de parada</a></li>
+    <li><a href="login.html">Entrar</a></li>
+    <li><a href="cadastro.html">Criar conta</a></li>
+  </ul>
+</nav>
+</header>
+
+<!-- Conteúdo principal da página de autenticação. -->
+<main class="auth-layout">
+  <section class="auth-side" aria-labelledby="auth-side-title">
+    <div class="auth-side-inner">
+      <div class="auth-brand"><span class="brand-mark">BUS</span><span>TRACKING</span></div>
+      <span class="eyebrow">Mobilidade urbana inteligente</span>
+      <h1 id="auth-side-title">Seu ônibus. Seu caminho. Em tempo real.</h1>
+      <p>Acompanhe linhas favoritas, veja previsão de chegada e planeje sua viagem com antecedência.</p>
+      <span class="tag">Dados fictícios — projeto acadêmico</span>
+    </div>
+  </section>
+
+  <section class="auth-form-panel" aria-labelledby="auth-title">
+    <article class="auth-card">
+      <h2 id="auth-title">Entrar</h2>
+      <p class="muted">Acesse o painel do BUSTRACKING.</p>
+      <form class="form" action="#" method="post">
+        <div class="form-group"><label for="email">E-mail</label><input id="email" type="email" name="email" autocomplete="email" placeholder="voce@email.com" required></div>
+          <div class="form-group"><label for="password">Senha</label><input id="password" type="password" name="password" autocomplete="current-password" placeholder="••••••••" required></div>
+        <a class="form-link" href="#">Esqueci minha senha</a>
+        <button class="btn btn-primary" type="submit">Entrar</button>
+      </form>
+      <div class="divider" aria-hidden="true">ou</div>
+      <button class="google-btn" type="button">G Continuar com Google</button>
+      <p class="auth-switch muted">Ainda não possui uma conta? <a href="cadastro.html">Cadastre-se</a></p>
+    </article>
+  </section>
+</main>
+
+<!-- Rodapé com informações e contatos do projeto. -->
+<footer class="footer">
+  <section class="footer-grid" aria-label="Informações do BUSTRACKING">
+    <div>
+      <strong>BUSTRACKING</strong>
+      <p>Plataforma acadêmica de rastreamento e informações de transporte público urbano.</p>
+    </div>
+    <div>
+      <strong>Contato</strong>
+      <p class="footer-links"><a href="mailto:contato@bustracking.example">E-mail</a><a href="index.html">Início</a></p>
+    </div>
+  </section>
+  <div class="notice">Aviso: os dados exibidos são fictícios e servem apenas para demonstração.</div>
+  <p>© 2026 BUSTRACKING — Projeto acadêmico de Sistemas de Informação.</p>
+</footer>
+
+<script src="js/main.js"></script>
+  <script src="js/parallax.js"></script>
+</body>
+</html>

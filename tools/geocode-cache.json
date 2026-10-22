@@ -1,0 +1,2831 @@
+{
+ "Terminal Urbano": {
+  "lat": -22.3631155,
+  "lng": -47.3834498,
+  "label": "Terminal Urbano, Avenida Zurita, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-060, Brasil",
+  "quality": "text"
+ },
+ "Av Augusta Viola da Costa - Jd. Celina": {
+  "lat": -22.3558963,
+  "lng": -47.3373834,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-317, Brasil",
+  "quality": "street"
+ },
+ "Av Augusta Viola da Costa - Meneghin Automoveis": {
+  "lat": -22.3558963,
+  "lng": -47.3373834,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-317, Brasil",
+  "quality": "street"
+ },
+ "Av Irineu Carrocci - Guerino": {
+  "lat": -22.3531337,
+  "lng": -47.3343821,
+  "label": "Avenida Irineu Carrocci, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "street"
+ },
+ "Av Jose Pavan - Pq. Ecologico": {
+  "lat": -22.3650277,
+  "lng": -47.3553187,
+  "label": "Avenida José Pavan, Sítio Recreio Independência, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "street"
+ },
+ "Av Luís Polo,(Frente Ufscar)": {
+  "quality": "none"
+ },
+ "Av Orpheu Manente - Moveis Casarin": {
+  "quality": "none"
+ },
+ "Av Pe Alarico Zacarias,1037": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Av Presidente Vargas, 1361": {
+  "lat": -22.351842,
+  "lng": -47.3376554,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Av Presidente Vargas, 1627": {
+  "lat": -22.3517867,
+  "lng": -47.3375381,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Av. Ângelo Bolis, 166": {
+  "quality": "none"
+ },
+ "Av. Castelo Branco, 718": {
+  "lat": -22.3811121,
+  "lng": -47.3910188,
+  "label": "Avenida Presidente Castelo Branco, Conjunto Habitacional Doutor Narciso Gomes, Narciso Gomes, Araras, São Paulo, Região Sudeste, 13601-400, Brasil",
+  "quality": "number"
+ },
+ "Av. D. Maria Dela Coleta, 837": {
+  "lat": -22.3641993,
+  "lng": -47.35838,
+  "label": "Avenida Dona Maria Dela Coleta, Sítio Recreio Independência, Jardim das Palmeiras, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "number"
+ },
+ "Av. Dona Renata - Sopro Divino": {
+  "lat": -22.3572093,
+  "lng": -47.3749977,
+  "label": "Avenida Dona Renata, Vila Castro, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-689, Brasil",
+  "quality": "street"
+ },
+ "Av. Francisco Borges, 151": {
+  "lat": -22.3734152,
+  "lng": -47.354559,
+  "label": "Avenida Francisco Borges, Jardim Santa Olívia III, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Av. João Rossi - Caixa dágua": {
+  "lat": -22.3349412,
+  "lng": -47.3589553,
+  "label": "Avenida João Rossi, Santo Antônio, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13600-970, Brasil",
+  "quality": "street"
+ },
+ "Av. João Rossi, 150": {
+  "lat": -22.3349412,
+  "lng": -47.3589553,
+  "label": "Avenida João Rossi, Santo Antônio, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13600-970, Brasil",
+  "quality": "number"
+ },
+ "Av. João Rossi, 49": {
+  "lat": -22.3349412,
+  "lng": -47.3589553,
+  "label": "Avenida João Rossi, Santo Antônio, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13600-970, Brasil",
+  "quality": "number"
+ },
+ "Av. Melvin Jones, 1421": {
+  "lat": -22.3678709,
+  "lng": -47.3638045,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-213, Brasil",
+  "quality": "number"
+ },
+ "Av. Melvin Jones, 1510": {
+  "lat": -22.3678709,
+  "lng": -47.3638045,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-213, Brasil",
+  "quality": "number"
+ },
+ "Av. Melvin Jones, 2303": {
+  "lat": -22.3683181,
+  "lng": -47.3604339,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Av. Melvin Jones, 2545": {
+  "lat": -22.3683181,
+  "lng": -47.3604339,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Av. Otto Barreto - terreno": {
+  "lat": -22.3710776,
+  "lng": -47.4143043,
+  "label": "Avenida Otto Barreto, Portal das Laranjeiras Residencial, Araras, São Paulo, Região Sudeste, 13602-060, Brasil",
+  "quality": "street"
+ },
+ "Av. Pe Atilio - Camara Municipal": {
+  "lat": -22.363599,
+  "lng": -47.3872122,
+  "label": "Avenida Padre Atílio, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-113, Brasil",
+  "quality": "street"
+ },
+ "Av. Pres Cafe Filho - Posto de Saude": {
+  "quality": "none"
+ },
+ "Av. Pres Costa e Silva, 655": {
+  "quality": "none"
+ },
+ "Av. Pres Costa e Silva,509": {
+  "quality": "none"
+ },
+ "Avenida Augusta Viola da Costa, 1098-1192": {
+  "lat": -22.3547099,
+  "lng": -47.3347833,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 1632-1760": {
+  "lat": -22.3558963,
+  "lng": -47.3373834,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-317, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 1762-1896": {
+  "lat": -22.3558963,
+  "lng": -47.3373834,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-317, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 1898-2326": {
+  "lat": -22.3558963,
+  "lng": -47.3373834,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-317, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 2-100": {
+  "lat": -22.3547099,
+  "lng": -47.3347833,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 2527-2677": {
+  "lat": -22.3547099,
+  "lng": -47.3347833,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 270-478": {
+  "lat": -22.3558963,
+  "lng": -47.3373834,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-317, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 3056-3170": {
+  "lat": -22.3547099,
+  "lng": -47.3347833,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 3172-3370": {
+  "lat": -22.3558963,
+  "lng": -47.3373834,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-317, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 3740-3814": {
+  "lat": -22.3558963,
+  "lng": -47.3373834,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-317, Brasil",
+  "quality": "number"
+ },
+ "Avenida Augusta Viola da Costa, 4258-4320": {
+  "lat": -22.3578648,
+  "lng": -47.3409884,
+  "label": "Avenida Augusta Viola da Costa, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-020, Brasil",
+  "quality": "number"
+ },
+ "Avenida Carola, 1626": {
+  "lat": -22.3569511,
+  "lng": -47.3493396,
+  "label": "Avenida Carola, Jardim Araras III, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13606-641, Brasil",
+  "quality": "number"
+ },
+ "Avenida Carola. 1500": {
+  "lat": -22.3569511,
+  "lng": -47.3493396,
+  "label": "Avenida Carola, Jardim Araras III, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13606-641, Brasil",
+  "quality": "number"
+ },
+ "Avenida Castelo Branco, 101-117": {
+  "lat": -22.3799108,
+  "lng": -47.3843515,
+  "label": "Avenida Presidente Castelo Branco, Jardim Vila São Jorge, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13609-315, Brasil",
+  "quality": "number"
+ },
+ "Avenida Castelo Branco, 2-214": {
+  "lat": -22.3799108,
+  "lng": -47.3843515,
+  "label": "Avenida Presidente Castelo Branco, Jardim Vila São Jorge, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13609-315, Brasil",
+  "quality": "number"
+ },
+ "Avenida Castelo Branco, 216-390": {
+  "lat": -22.3799108,
+  "lng": -47.3843515,
+  "label": "Avenida Presidente Castelo Branco, Jardim Vila São Jorge, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13609-315, Brasil",
+  "quality": "number"
+ },
+ "Avenida Castelo Branco, 450-614": {
+  "lat": -22.3799108,
+  "lng": -47.3843515,
+  "label": "Avenida Presidente Castelo Branco, Jardim Vila São Jorge, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13609-315, Brasil",
+  "quality": "number"
+ },
+ "Avenida Castelo Branco, 54-214": {
+  "lat": -22.3799108,
+  "lng": -47.3843515,
+  "label": "Avenida Presidente Castelo Branco, Jardim Vila São Jorge, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13609-315, Brasil",
+  "quality": "number"
+ },
+ "Avenida Castelo Branco, 615-779": {
+  "lat": -22.3799108,
+  "lng": -47.3843515,
+  "label": "Avenida Presidente Castelo Branco, Jardim Vila São Jorge, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13609-315, Brasil",
+  "quality": "number"
+ },
+ "Avenida Coronel. Primo Beraldo": {
+  "quality": "none"
+ },
+ "Avenida da Saudade, 1728-1806": {
+  "lat": -22.3650022,
+  "lng": -47.3774376,
+  "label": "Avenida da Saudade, Chácara São José, Vila Michelin, Centro, Araras, São Paulo, Região Sudeste, 13607-062, Brasil",
+  "quality": "number"
+ },
+ "Avenida Dona Renata, 104": {
+  "lat": -22.3574084,
+  "lng": -47.3746682,
+  "label": "Avenida Dona Renata, Vila Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-689, Brasil",
+  "quality": "number"
+ },
+ "Avenida Dona Renata, 160-232": {
+  "lat": -22.3574084,
+  "lng": -47.3746682,
+  "label": "Avenida Dona Renata, Vila Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-689, Brasil",
+  "quality": "number"
+ },
+ "Avenida Dona Renata, 1832-1900": {
+  "lat": -22.3574084,
+  "lng": -47.3746682,
+  "label": "Avenida Dona Renata, Vila Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-689, Brasil",
+  "quality": "number"
+ },
+ "Avenida Dona Renata, 5003": {
+  "lat": -22.3572093,
+  "lng": -47.3749977,
+  "label": "Avenida Dona Renata, Vila Castro, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-689, Brasil",
+  "quality": "number"
+ },
+ "Avenida Doutor Maximiliano Baruto, 1752-1790": {
+  "quality": "none"
+ },
+ "Avenida Doutor Maximiliano Baruto, 221-429": {
+  "quality": "none"
+ },
+ "Avenida Doutor Olindo Russolo, 192-252": {
+  "lat": -22.3794678,
+  "lng": -47.3617234,
+  "label": "Rua Arlindo Segatto, Jardim das Nações, Jardim Dom Bosco, Araras, São Paulo, Região Sudeste, 13607-350, Brasil",
+  "quality": "number"
+ },
+ "Avenida Doutor Olindo Russolo, 67-107": {
+  "lat": -22.3794678,
+  "lng": -47.3617234,
+  "label": "Rua Arlindo Segatto, Jardim das Nações, Jardim Dom Bosco, Araras, São Paulo, Região Sudeste, 13607-350, Brasil",
+  "quality": "number"
+ },
+ "Avenida Fábio da Silva Prado, 1376-1410": {
+  "lat": -22.3489234,
+  "lng": -47.3758536,
+  "label": "Avenida Fábio da Silva Prado, Jardim Mário Leite de Castro, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Avenida Fábio da Silva Prado, 16389": {
+  "lat": -22.3465438,
+  "lng": -47.3742556,
+  "label": "Avenida Fábio da Silva Prado, Jardim Mário Leite de Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Avenida Fábio da Silva Prado, 2460-2540": {
+  "lat": -22.3407281,
+  "lng": -47.3703276,
+  "label": "Avenida Fábio da Silva Prado, Jardim São João, Jardim São Pedro, Centro, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Avenida Fábio da Silva Prado, 2680-2726": {
+  "lat": -22.3465438,
+  "lng": -47.3742556,
+  "label": "Avenida Fábio da Silva Prado, Jardim Mário Leite de Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Avenida Fábio da Silva Prado, 619-817": {
+  "lat": -22.3407469,
+  "lng": -47.3701824,
+  "label": "Avenida Fábio da Silva Prado, Jardim São João, Chácara de Recreio Villa Rica, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Avenida Fábio da Silva Prado, 934-1228": {
+  "lat": -22.3489234,
+  "lng": -47.3758536,
+  "label": "Avenida Fábio da Silva Prado, Jardim Mário Leite de Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Avenida Ferdinando Pietro Pavan, 2-122": {
+  "lat": -22.3649297,
+  "lng": -47.3337504,
+  "label": "Avenida Ferdinando Pietro Pavan, Conjunto Jardim Myriam, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-423, Brasil",
+  "quality": "number"
+ },
+ "Avenida Flamboiant, 2-104": {
+  "quality": "none"
+ },
+ "Avenida Godofredo Teixeira da Silva Teles, 506-574": {
+  "quality": "none"
+ },
+ "Avenida Goffredo Teixeira da Silva Telles, 191": {
+  "lat": -22.3729861,
+  "lng": -47.3673755,
+  "label": "Avenida Goffredo Teixeira da Silva Telles, Jardim Abolição de Lourenço Dias, Jardim das Palmeiras, Centro, Araras, São Paulo, Região Sudeste, 13607-505, Brasil",
+  "quality": "number"
+ },
+ "Avenida Goffredo Teixeira da Silva Telles, 405-443": {
+  "lat": -22.3769868,
+  "lng": -47.3619778,
+  "label": "Avenida Goffredo Teixeira da Silva Telles, Jardim das Nações, Jardim Dom Bosco, Araras, São Paulo, Região Sudeste, 13607-350, Brasil",
+  "quality": "number"
+ },
+ "Avenida Goffredo Teixeira da Silva Telles, 472-550": {
+  "lat": -22.3769868,
+  "lng": -47.3619778,
+  "label": "Avenida Goffredo Teixeira da Silva Telles, Jardim das Nações, Jardim Dom Bosco, Araras, São Paulo, Região Sudeste, 13607-350, Brasil",
+  "quality": "number"
+ },
+ "Avenida Goffredo Teixeira da Silva Telles, 647-783": {
+  "lat": -22.3729861,
+  "lng": -47.3673755,
+  "label": "Avenida Goffredo Teixeira da Silva Telles, Jardim Abolição de Lourenço Dias, Jardim das Palmeiras, Centro, Araras, São Paulo, Região Sudeste, 13607-505, Brasil",
+  "quality": "number"
+ },
+ "Avenida Guerino Turati, 510": {
+  "quality": "none"
+ },
+ "Avenida Guerino Turati,490": {
+  "quality": "none"
+ },
+ "Avenida Industrial, 349-555": {
+  "lat": -22.3655044,
+  "lng": -47.3983644,
+  "label": "Avenida Industrial, Distrito Municipal Industrial I, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13602-014, Brasil",
+  "quality": "number"
+ },
+ "Avenida Industrial, 555": {
+  "lat": -22.3655044,
+  "lng": -47.3983644,
+  "label": "Avenida Industrial, Distrito Municipal Industrial I, Centro, Araras, São Paulo, Região Sudeste, 13602-014, Brasil",
+  "quality": "number"
+ },
+ "Avenida Irineu Carrocci, 109-139": {
+  "lat": -22.3501203,
+  "lng": -47.3352327,
+  "label": "Avenida Irineu Carrocci, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Irineu Carrocci, 1245": {
+  "lat": -22.3522988,
+  "lng": -47.3344111,
+  "label": "Avenida Irineu Carrocci, Conjunto Habitacional Jardim José Ometto I, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Irineu Carrocci, 160-172": {
+  "lat": -22.3522988,
+  "lng": -47.3344111,
+  "label": "Avenida Irineu Carrocci, Conjunto Habitacional Jardim José Ometto I, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Irineu Carrocci, 301-415": {
+  "lat": -22.3531337,
+  "lng": -47.3343821,
+  "label": "Avenida Irineu Carrocci, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Jeronymo Ometto, 300-456": {
+  "lat": -22.3510374,
+  "lng": -47.4021555,
+  "label": "Avenida Jeronymo Ometto, Jardim do Filtro, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-019, Brasil",
+  "quality": "number"
+ },
+ "Avenida Jeronymo Ometto, 457-521": {
+  "lat": -22.3510374,
+  "lng": -47.4021555,
+  "label": "Avenida Jeronymo Ometto, Jardim do Filtro, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-019, Brasil",
+  "quality": "number"
+ },
+ "Avenida Jeronymo Ometto, 564": {
+  "lat": -22.3501392,
+  "lng": -47.4034109,
+  "label": "Avenida Jeronymo Ometto, Jardim do Filtro, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-019, Brasil",
+  "quality": "number"
+ },
+ "Avenida Jeronymo Ometto, 82": {
+  "lat": -22.3481811,
+  "lng": -47.407039,
+  "label": "Avenida Jeronymo Ometto, Jardim Rosana, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-081, Brasil",
+  "quality": "number"
+ },
+ "Avenida João Alfredo Graf, 643-763": {
+  "lat": -22.354712,
+  "lng": -47.3207844,
+  "label": "Avenida João Alfredo Graf, Jardim Portal do Sol, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Avenida João Rossi - Ent. Aeroporto": {
+  "lat": -22.3349412,
+  "lng": -47.3589553,
+  "label": "Avenida João Rossi, Santo Antônio, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13600-970, Brasil",
+  "quality": "street"
+ },
+ "Avenida João Rossi - Mercearia": {
+  "lat": -22.3349412,
+  "lng": -47.3589553,
+  "label": "Avenida João Rossi, Santo Antônio, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13600-970, Brasil",
+  "quality": "street"
+ },
+ "Avenida João Rossi, 3367": {
+  "lat": -22.337734,
+  "lng": -47.3510386,
+  "label": "Avenida João Rossi, Jardim Manacá, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13605-339, Brasil",
+  "quality": "number"
+ },
+ "Avenida João Rossi, 3599": {
+  "lat": -22.337734,
+  "lng": -47.3510386,
+  "label": "Avenida João Rossi, Jardim Manacá, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13605-339, Brasil",
+  "quality": "number"
+ },
+ "Avenida João Rossi, 825": {
+  "lat": -22.337734,
+  "lng": -47.3510386,
+  "label": "Avenida João Rossi, Jardim Manacá, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13605-339, Brasil",
+  "quality": "number"
+ },
+ "Avenida José Ometto, 1033-1173": {
+  "lat": -22.4091509,
+  "lng": -47.3616538,
+  "label": "Avenida José Ometto, Usina São João, Araras, São Paulo, Região Sudeste, 13609-428, Brasil",
+  "quality": "number"
+ },
+ "Avenida José Ometto, 1300": {
+  "lat": -22.3764805,
+  "lng": -47.372715,
+  "label": "Avenida José Ometto, Jardim Flamboyant, Jardim Ouro Verde II, Araras, São Paulo, Região Sudeste, 13609-184, Brasil",
+  "quality": "number"
+ },
+ "Avenida José Ometto, 1900": {
+  "lat": -22.3709127,
+  "lng": -47.3750988,
+  "label": "Avenida José Ometto, Vila Rodini, Vila Michelin, Centro, Araras, São Paulo, Região Sudeste, 13607-059, Brasil",
+  "quality": "number"
+ },
+ "Avenida José Ometto, 2071": {
+  "lat": -22.3709127,
+  "lng": -47.3750988,
+  "label": "Avenida José Ometto, Vila Rodini, Vila Michelin, Centro, Araras, São Paulo, Região Sudeste, 13607-059, Brasil",
+  "quality": "number"
+ },
+ "Avenida José Ometto, 2116-2214": {
+  "lat": -22.3764805,
+  "lng": -47.372715,
+  "label": "Avenida José Ometto, Jardim Flamboyant, Jardim Ouro Verde II, Araras, São Paulo, Região Sudeste, 13609-184, Brasil",
+  "quality": "number"
+ },
+ "Avenida José Ometto, 2354-2430": {
+  "lat": -22.3764805,
+  "lng": -47.372715,
+  "label": "Avenida José Ometto, Jardim Flamboyant, Jardim Ouro Verde II, Araras, São Paulo, Região Sudeste, 13609-184, Brasil",
+  "quality": "number"
+ },
+ "Avenida José Ometto, 318-740": {
+  "lat": -22.4091509,
+  "lng": -47.3616538,
+  "label": "Avenida José Ometto, Usina São João, Araras, São Paulo, Região Sudeste, 13609-428, Brasil",
+  "quality": "number"
+ },
+ "Avenida José Ometto, 70": {
+  "lat": -22.4171336,
+  "lng": -47.3899732,
+  "label": "Avenida José Ometto, Distrito Industrial VI, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13602-040, Brasil",
+  "quality": "number"
+ },
+ "Avenida José Pavan, 181-341": {
+  "lat": -22.3610334,
+  "lng": -47.3559856,
+  "label": "Avenida José Pavan, Sítio Recreio Independência, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "number"
+ },
+ "Avenida Leme, 280": {
+  "lat": -22.336154,
+  "lng": -47.3843083,
+  "label": "Avenida Leme, Jardim Nova Europa, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-186, Brasil",
+  "quality": "number"
+ },
+ "Avenida Leme, 76-118": {
+  "lat": -22.336154,
+  "lng": -47.3843083,
+  "label": "Avenida Leme, Jardim Nova Europa, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-186, Brasil",
+  "quality": "number"
+ },
+ "Avenida Leme, 91": {
+  "lat": -22.336154,
+  "lng": -47.3843083,
+  "label": "Avenida Leme, Jardim Nova Europa, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-186, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto - Pça Carlota": {
+  "lat": -22.3596205,
+  "lng": -47.3560541,
+  "label": "Avenida Loreto, Jardim Araras I, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "street"
+ },
+ "Avenida Loreto, 1092": {
+  "lat": -22.3599534,
+  "lng": -47.359737,
+  "label": "Avenida Loreto, Jardim Campestre, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto, 1200-1360": {
+  "lat": -22.3607996,
+  "lng": -47.3704641,
+  "label": "Avenida Loreto, Loteamento Tancredo Neves, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13607-060, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto, 1281-1415": {
+  "lat": -22.3599534,
+  "lng": -47.359737,
+  "label": "Avenida Loreto, Jardim Campestre, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto, 1592 - Estacionamento": {
+  "lat": -22.3599534,
+  "lng": -47.359737,
+  "label": "Avenida Loreto, Jardim Campestre, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto, 3174-3280": {
+  "lat": -22.360121,
+  "lng": -47.3603981,
+  "label": "Avenida Loreto, Centter Martini, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto, 376-432": {
+  "lat": -22.3599534,
+  "lng": -47.359737,
+  "label": "Avenida Loreto, Jardim Campestre, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto, 387-467": {
+  "lat": -22.360121,
+  "lng": -47.3603981,
+  "label": "Avenida Loreto, Centter Martini, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto, 390-448": {
+  "lat": -22.3576705,
+  "lng": -47.3543285,
+  "label": "Avenida Orpheu Manenti, Jardim Araras III, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13606-641, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto, 806": {
+  "lat": -22.3607996,
+  "lng": -47.3704641,
+  "label": "Avenida Loreto, Loteamento Tancredo Neves, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13607-060, Brasil",
+  "quality": "number"
+ },
+ "Avenida Loreto, 979-1009": {
+  "lat": -22.3596205,
+  "lng": -47.3560541,
+  "label": "Avenida Loreto, Jardim Araras I, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-179, Brasil",
+  "quality": "number"
+ },
+ "Avenida Lourenço Batistela, 165-209": {
+  "quality": "none"
+ },
+ "Avenida Lourenço Batistela, 364-420": {
+  "quality": "none"
+ },
+ "Avenida Lourenço Batistela, 421-469": {
+  "quality": "none"
+ },
+ "Avenida Luiz Carlos Tunes, 1215-1247": {
+  "lat": -22.3483749,
+  "lng": -47.3150929,
+  "label": "Avenida Luiz Carlos Tunes, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Avenida Luiz Carlos Tunes, 1374-1438": {
+  "lat": -22.3483749,
+  "lng": -47.3150929,
+  "label": "Avenida Luiz Carlos Tunes, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Avenida Luiz Carlos Tunes, 2-74": {
+  "lat": -22.3483749,
+  "lng": -47.3150929,
+  "label": "Avenida Luiz Carlos Tunes, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Avenida Luiz Carlos Tunes, 2696-2842": {
+  "lat": -22.3483749,
+  "lng": -47.3150929,
+  "label": "Avenida Luiz Carlos Tunes, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Avenida Luiz Carlos Tunes, 4065": {
+  "lat": -22.3483749,
+  "lng": -47.3150929,
+  "label": "Avenida Luiz Carlos Tunes, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Avenida Luiz Carlos Tunes, 75-177": {
+  "lat": -22.3483749,
+  "lng": -47.3150929,
+  "label": "Avenida Luiz Carlos Tunes, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Avenida Maria Aparecida Muniz Michielin, 1122-1156": {
+  "lat": -22.3395979,
+  "lng": -47.3838067,
+  "label": "Avenida Maria Aparecida Muniz Michielin, Granja Santa Rita, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-236, Brasil",
+  "quality": "number"
+ },
+ "Avenida Maria Aparecida Muniz Michielin, 1685": {
+  "lat": -22.3442321,
+  "lng": -47.3854467,
+  "label": "Avenida Maria Aparecida Muniz Michielin, Jardim Santa Rosa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-230, Brasil",
+  "quality": "number"
+ },
+ "Avenida Maria Aparecida Muniz Michielin, 2248-2276": {
+  "lat": -22.3395979,
+  "lng": -47.3838067,
+  "label": "Avenida Maria Aparecida Muniz Michielin, Granja Santa Rita, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-236, Brasil",
+  "quality": "number"
+ },
+ "Avenida Maria Aparecida Muniz Michielin, 240-352": {
+  "lat": -22.3395979,
+  "lng": -47.3838067,
+  "label": "Avenida Maria Aparecida Muniz Michielin, Granja Santa Rita, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-236, Brasil",
+  "quality": "number"
+ },
+ "Avenida Maria Aparecida Muniz Michielin, 60-90": {
+  "lat": -22.3483957,
+  "lng": -47.3860238,
+  "label": "Avenida Maria Aparecida Muniz Michielin, Jardim Santa Rosa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-150, Brasil",
+  "quality": "number"
+ },
+ "Avenida Maria Aparecida Muniz Michielin, 752-922": {
+  "lat": -22.3395979,
+  "lng": -47.3838067,
+  "label": "Avenida Maria Aparecida Muniz Michielin, Granja Santa Rita, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-236, Brasil",
+  "quality": "number"
+ },
+ "Avenida Maria Aparecida Muniz Michielin, 762-786": {
+  "lat": -22.3395979,
+  "lng": -47.3838067,
+  "label": "Avenida Maria Aparecida Muniz Michielin, Granja Santa Rita, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-236, Brasil",
+  "quality": "number"
+ },
+ "Avenida Maria Aparecida Muniz Michielin, 952": {
+  "lat": -22.3395979,
+  "lng": -47.3838067,
+  "label": "Avenida Maria Aparecida Muniz Michielin, Granja Santa Rita, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-236, Brasil",
+  "quality": "number"
+ },
+ "Avenida Melvin Jones, 1046-1126": {
+  "lat": -22.3683181,
+  "lng": -47.3604339,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Avenida Melvin Jones, 183-227": {
+  "lat": -22.3683181,
+  "lng": -47.3604339,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Avenida Melvin Jones, 3717-3873": {
+  "lat": -22.3683181,
+  "lng": -47.3604339,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Avenida Melvin Jones, 401-409": {
+  "lat": -22.3683181,
+  "lng": -47.3604339,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Avenida Melvin Jones, 4134-4196": {
+  "lat": -22.3683181,
+  "lng": -47.3604339,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Avenida Melvin Jones, 641-675": {
+  "lat": -22.3683181,
+  "lng": -47.3604339,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Avenida Melvin Jones, 660-696": {
+  "lat": -22.3680014,
+  "lng": -47.3637891,
+  "label": "Avenida Melvin Jones, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-213, Brasil",
+  "quality": "number"
+ },
+ "Avenida Orpheu Manenti, 326": {
+  "lat": -22.3576705,
+  "lng": -47.3543285,
+  "label": "Avenida Orpheu Manenti, Jardim Araras III, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13606-641, Brasil",
+  "quality": "number"
+ },
+ "Avenida Oto Barreto - Citrovita": {
+  "quality": "none"
+ },
+ "Avenida Oto Barreto - Sayão": {
+  "quality": "none"
+ },
+ "Avenida Oto Barreto - terreno": {
+  "quality": "none"
+ },
+ "Avenida Oto Barreto, 1500": {
+  "quality": "none"
+ },
+ "Avenida Oto Barreto, 550": {
+  "quality": "none"
+ },
+ "Avenida Otto Barreto, 1281-1321": {
+  "lat": -22.3751294,
+  "lng": -47.4074941,
+  "label": "Avenida Otto Barreto, Parque Cidade Jardim, Araras, São Paulo, Região Sudeste, 13602-060, Brasil",
+  "quality": "number"
+ },
+ "Avenida Otto Barreto, 434": {
+  "lat": -22.3621289,
+  "lng": -47.4006392,
+  "label": "Avenida Otto Barreto, Jardim São Luis, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13602-014, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 1172-1216": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 1414-1516": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 1526": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 1825-1873": {
+  "lat": -22.36682,
+  "lng": -47.3909213,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-190, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 242-322": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 2969-3029": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 3161-3261": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 572": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 682-700": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 762": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Alarico Zacarias, 946-1020": {
+  "lat": -22.3649226,
+  "lng": -47.3901451,
+  "label": "Avenida Padre Alarico Zacarias, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-200, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Atílio, 135": {
+  "lat": -22.3662324,
+  "lng": -47.3888295,
+  "label": "Avenida Padre Atílio, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-190, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Atílio, 305-357": {
+  "lat": -22.363599,
+  "lng": -47.3872122,
+  "label": "Avenida Padre Atílio, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-113, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Atílio, 400": {
+  "lat": -22.3634359,
+  "lng": -47.3872972,
+  "label": "Avenida Padre Atílio, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-113, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Atílio, 447": {
+  "lat": -22.363599,
+  "lng": -47.3872122,
+  "label": "Avenida Padre Atílio, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-113, Brasil",
+  "quality": "number"
+ },
+ "Avenida Padre Atílio, 646": {
+  "lat": -22.363599,
+  "lng": -47.3872122,
+  "label": "Avenida Padre Atílio, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-113, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Catelo Branco, 2-64": {
+  "quality": "none"
+ },
+ "Avenida Presidente Costa e Silva, 168-218": {
+  "lat": -22.3824487,
+  "lng": -47.3916361,
+  "label": "Avenida Presidente Costa e Silva, Conjunto Habitacional Doutor Narciso Gomes, Narciso Gomes, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13601-400, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Costa e Silva, 373": {
+  "lat": -22.3824487,
+  "lng": -47.3916361,
+  "label": "Avenida Presidente Costa e Silva, Conjunto Habitacional Doutor Narciso Gomes, Narciso Gomes, Araras, São Paulo, Região Sudeste, 13601-400, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Dutra, 1-147": {
+  "lat": -22.3795132,
+  "lng": -47.3856859,
+  "label": "Avenida Presidente Dutra, Conjunto Habitacional Doutor Narciso Gomes, Narciso Gomes, Araras, São Paulo, Região Sudeste, 13601-400, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Dutra, 149-251": {
+  "lat": -22.3795132,
+  "lng": -47.3856859,
+  "label": "Avenida Presidente Dutra, Conjunto Habitacional Doutor Narciso Gomes, Narciso Gomes, Araras, São Paulo, Região Sudeste, 13601-400, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Dutra, 381-451": {
+  "lat": -22.3817597,
+  "lng": -47.3864102,
+  "label": "Avenida Presidente Dutra, Conjunto Habitacional Doutor Narciso Gomes, Narciso Gomes, Araras, São Paulo, Região Sudeste, 13609-388, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Juscelino Kubitscheck, 50-98": {
+  "lat": -22.3807348,
+  "lng": -47.3884288,
+  "label": "Avenida Presidente Juscelino Kubitscheck, Conjunto Habitacional Doutor Narciso Gomes, Narciso Gomes, Araras, São Paulo, Região Sudeste, 13601-400, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Vargas, 1-139": {
+  "lat": -22.351842,
+  "lng": -47.3376554,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Vargas, 1013": {
+  "lat": -22.351842,
+  "lng": -47.3376554,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Vargas, 1024": {
+  "lat": -22.351842,
+  "lng": -47.3376554,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Vargas, 1156-1294": {
+  "lat": -22.351842,
+  "lng": -47.3376554,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Vargas, 1247": {
+  "lat": -22.3517867,
+  "lng": -47.3375381,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Vargas, 1408": {
+  "lat": -22.3517867,
+  "lng": -47.3375381,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Vargas, 2767-2965": {
+  "lat": -22.3517867,
+  "lng": -47.3375381,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Presidente Vargas, 777-911": {
+  "lat": -22.3517867,
+  "lng": -47.3375381,
+  "label": "Avenida Presidente Vargas, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Avenida Prof Dirçon Kammer, 117-231": {
+  "lat": -22.3240909,
+  "lng": -47.3837751,
+  "label": "Avenida Professor Dirçon Kammer, Jardim Pedras Preciosas, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-472, Brasil",
+  "quality": "number"
+ },
+ "Avenida Prof Dirçon Kammer, 118-232": {
+  "lat": -22.3250417,
+  "lng": -47.384518,
+  "label": "Avenida Professor Dirçon Kammer, Jardim Alto da Colina, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-198, Brasil",
+  "quality": "number"
+ },
+ "Avenida Romana Ometo, 190": {
+  "quality": "none"
+ },
+ "Avenida Romana Ometo, 296": {
+  "quality": "none"
+ },
+ "Avenida São Pedro, 101": {
+  "lat": -22.3454729,
+  "lng": -47.3667468,
+  "label": "Avenida São Pedro, Chácara de Recreio Villa Rica, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Avenida São Pedro, 72-132": {
+  "lat": -22.3437001,
+  "lng": -47.3688959,
+  "label": "Avenida São Pedro, Jardim São João, Jardim São Pedro, Centro, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Avenida Senador César Lacerda de Vergueiro, 31-55": {
+  "lat": -22.3551732,
+  "lng": -47.3999004,
+  "label": "Avenida Senador César Lacerda de Oliveira, Jardim Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-013, Brasil",
+  "quality": "number"
+ },
+ "Avenida Senador César Lacerda de Vergueiro, 805": {
+  "lat": -22.3551732,
+  "lng": -47.3999004,
+  "label": "Avenida Senador César Lacerda de Oliveira, Jardim Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-013, Brasil",
+  "quality": "number"
+ },
+ "Avenida Senador César Lacerda de Vergueiro, 961": {
+  "lat": -22.3551732,
+  "lng": -47.3999004,
+  "label": "Avenida Senador César Lacerda de Oliveira, Jardim Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-013, Brasil",
+  "quality": "number"
+ },
+ "Avenida Washington Luiz, 309-321": {
+  "lat": -22.3621906,
+  "lng": -47.3793406,
+  "label": "Avenida Washington Luiz, Chácara São José, Vila Michelin, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13601-000, Brasil",
+  "quality": "number"
+ },
+ "Avenida Washington Luiz, 545-599": {
+  "lat": -22.3588117,
+  "lng": -47.3797119,
+  "label": "Avenida Washington Luiz, Chácara Fachini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-695, Brasil",
+  "quality": "number"
+ },
+ "Avenida Zurita, Camara Municipal": {
+  "lat": -22.3654911,
+  "lng": -47.3816486,
+  "label": "Avenida Zurita, Vila Industrial, Vila Michelin, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13601-056, Brasil",
+  "quality": "street"
+ },
+ "Avienieda Francisco Borges, 1221": {
+  "quality": "none"
+ },
+ "Avienieda Francisco Borges, 442-466": {
+  "quality": "none"
+ },
+ "Avienieda Francisco Borges, 46-74": {
+  "quality": "none"
+ },
+ "Bar do Indio": {
+  "quality": "none"
+ },
+ "Estrada Elhiu Hoot": {
+  "quality": "none"
+ },
+ "Estrada Elhiu Hoot, 344-934": {
+  "quality": "none"
+ },
+ "Estrada Elhiu Hoot, 5506": {
+  "quality": "none"
+ },
+ "Estrada Geral Pinhalzinho": {
+  "quality": "none"
+ },
+ "Estrada Geral Pinhalzinho, 10": {
+  "quality": "none"
+ },
+ "Estrada Geral Pinhalzinho, 20": {
+  "quality": "none"
+ },
+ "Estrada Geral Pinhalzinho, 30": {
+  "quality": "none"
+ },
+ "Estrada José Baggio Primo": {
+  "lat": -22.3120791,
+  "lng": -47.3673029,
+  "label": "Estrada José Baggio Primo, Jardim Esmeraldas, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-333, Brasil",
+  "quality": "street"
+ },
+ "Estrada José Baggio Primo, 10": {
+  "lat": -22.3120791,
+  "lng": -47.3673029,
+  "label": "Estrada José Baggio Primo, Jardim Esmeraldas, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-333, Brasil",
+  "quality": "number"
+ },
+ "Estrada José Baggio Primo, 11": {
+  "lat": -22.3120791,
+  "lng": -47.3673029,
+  "label": "Estrada José Baggio Primo, Jardim Esmeraldas, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-333, Brasil",
+  "quality": "number"
+ },
+ "José Otavio Fontanetti, 1275": {
+  "lat": -22.3872708,
+  "lng": -47.3749246,
+  "label": "Rua José Otávio Fontanetti, Jardim Terra Nobre, Jardim Ouro Verde II, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13609-428, Brasil",
+  "quality": "number"
+ },
+ "Loteamento": {
+  "lat": -22.3624987,
+  "lng": -47.3701608,
+  "label": "Loteamento Tancredo Neves, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13607-060, Brasil",
+  "quality": "text"
+ },
+ "Pca Barão - HSBC/ITAU": {
+  "quality": "none"
+ },
+ "Portal do Sol": {
+  "lat": -22.3556226,
+  "lng": -47.3224926,
+  "label": "Jardim Portal do Sol, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "text"
+ },
+ "Rodovia Anhanguera - Jardim Anhanguera, SP, Brasil": {
+  "lat": -22.350975,
+  "lng": -47.3946247,
+  "label": "Rodovia Anhanguera, Jardim Anhanguera, Centro, Araras, São Paulo, Região Sudeste, 13609-314, Brasil",
+  "quality": "street"
+ },
+ "Rodovia Anhanguera, 7313 - Jardim Anhanguera, SP,": {
+  "lat": -22.350975,
+  "lng": -47.3946247,
+  "label": "Rodovia Anhanguera, Jardim Anhanguera, Centro, Araras, São Paulo, Região Sudeste, 13609-314, Brasil",
+  "quality": "number"
+ },
+ "Rua Afonso Bueno, 232": {
+  "lat": -22.3504025,
+  "lng": -47.3972147,
+  "label": "Rua Afonso Bueno, Jardim Cândida, Araras, São Paulo, Região Sudeste, 13603-019, Brasil",
+  "quality": "number"
+ },
+ "Rua Afonso Bueno, 390": {
+  "lat": -22.3504025,
+  "lng": -47.3972147,
+  "label": "Rua Afonso Bueno, Jardim Cândida, Araras, São Paulo, Região Sudeste, 13603-019, Brasil",
+  "quality": "number"
+ },
+ "Rua Alagoas, 310": {
+  "lat": -22.3737946,
+  "lng": -47.3909708,
+  "label": "Rua Alagoas, Parque Industrial, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Alan Kardec, 162": {
+  "quality": "none"
+ },
+ "Rua Alan Kardec, 72": {
+  "quality": "none"
+ },
+ "Rua Albino Cardoso, 690-738": {
+  "lat": -22.3506153,
+  "lng": -47.3857703,
+  "label": "Rua Albino Cardoso, Vila Franzini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-150, Brasil",
+  "quality": "number"
+ },
+ "Rua Alcides Agostine, 316": {
+  "quality": "none"
+ },
+ "Rua Alcídes Sotini, 405": {
+  "quality": "none"
+ },
+ "Rua Alessandro Volta, 152-204": {
+  "lat": -22.3728053,
+  "lng": -47.3656641,
+  "label": "Rua Alessandro Volta, Jardim Abolição de Lourenço Dias, Jardim Ouro Verde II, Araras, São Paulo, Região Sudeste, 13607-505, Brasil",
+  "quality": "number"
+ },
+ "Rua Alexandre Fleming, 179": {
+  "lat": -22.3598015,
+  "lng": -47.3806258,
+  "label": "Rua Alexandre Fleming, Chácara Fachini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-695, Brasil",
+  "quality": "number"
+ },
+ "Rua América, 1-91": {
+  "lat": -22.3475141,
+  "lng": -47.3800092,
+  "label": "Rua América, Chácara Boa Vista, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua América, 12 - Tonys Grill": {
+  "lat": -22.3527435,
+  "lng": -47.3806282,
+  "label": "Rua América, Vila Real, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua América, 1227-1273": {
+  "lat": -22.3475141,
+  "lng": -47.3800092,
+  "label": "Rua América, Chácara Boa Vista, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua América, 180": {
+  "lat": -22.3475141,
+  "lng": -47.3800092,
+  "label": "Rua América, Chácara Boa Vista, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua América, 206": {
+  "lat": -22.3475141,
+  "lng": -47.3800092,
+  "label": "Rua América, Chácara Boa Vista, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua América, 265": {
+  "lat": -22.3527435,
+  "lng": -47.3806282,
+  "label": "Rua América, Vila Real, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua América, 80": {
+  "lat": -22.3527435,
+  "lng": -47.3806282,
+  "label": "Rua América, Vila Real, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua Anderson Bordini - Lado Sonoco": {
+  "quality": "none"
+ },
+ "Rua Angelo Cerri, 222": {
+  "lat": -22.3296239,
+  "lng": -47.3760555,
+  "label": "Rua Ângelo Cerri, Jardim Alvorada, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-312, Brasil",
+  "quality": "number"
+ },
+ "Rua Angelo Cerri, 556": {
+  "lat": -22.3296239,
+  "lng": -47.3760555,
+  "label": "Rua Ângelo Cerri, Jardim Alvorada, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-312, Brasil",
+  "quality": "number"
+ },
+ "Rua Angelo Ferro, 460": {
+  "lat": -22.3307742,
+  "lng": -47.3781847,
+  "label": "Rua Ângelo Ferro, Jardim Alvorada, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-312, Brasil",
+  "quality": "number"
+ },
+ "Rua Ângelo Francato, 147": {
+  "lat": -22.345089,
+  "lng": -47.3299151,
+  "label": "Rua Ângelo Francato, Parque Tiradentes, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Angelo Ghirardini": {
+  "quality": "none"
+ },
+ "Rua Ângelo Lussari, 38": {
+  "lat": -22.3496826,
+  "lng": -47.4100113,
+  "label": "Rua Ângelo Lussari, Jardim Nova Rosana, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-081, Brasil",
+  "quality": "number"
+ },
+ "Rua Ângelo Pastorelo, 201": {
+  "quality": "none"
+ },
+ "Rua Antônia Maria Milanelo, 126-196": {
+  "quality": "none"
+ },
+ "Rua Antônia Maria Milanelo, 292-360": {
+  "quality": "none"
+ },
+ "Rua Antônia Maria Milanelo, 811-849": {
+  "quality": "none"
+ },
+ "Rua Antônio Alves - Adalgisa": {
+  "lat": -22.3479593,
+  "lng": -47.3258226,
+  "label": "Rua Antônio Alves, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "street"
+ },
+ "Rua Antonio Alves, 239": {
+  "lat": -22.3479593,
+  "lng": -47.3258226,
+  "label": "Rua Antônio Alves, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Antônio Alves, 409-463": {
+  "lat": -22.3479593,
+  "lng": -47.3258226,
+  "label": "Rua Antônio Alves, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Antônio Alves, 426": {
+  "lat": -22.3479593,
+  "lng": -47.3258226,
+  "label": "Rua Antônio Alves, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Antônio Alves, 65": {
+  "lat": -22.3479593,
+  "lng": -47.3258226,
+  "label": "Rua Antônio Alves, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Antônio Alves, 666-706": {
+  "lat": -22.3499182,
+  "lng": -47.331622,
+  "label": "Rua Antônio Alves, Parque Dom Pedro, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Antônio Alves, 68-174": {
+  "lat": -22.3501398,
+  "lng": -47.3343317,
+  "label": "Rua Antônio Alves, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Rua Antônio Cantiero, 248-522": {
+  "quality": "none"
+ },
+ "Rua Antônio Cantiero, 522": {
+  "quality": "none"
+ },
+ "Rua Antônio Corte, 940 - Parque das Árvores": {
+  "lat": -22.3283017,
+  "lng": -47.3842241,
+  "label": "Rua Antônio Corte, Jardim Alvorada, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-198, Brasil",
+  "quality": "number"
+ },
+ "Rua Antonio de Ponti, 308": {
+  "quality": "none"
+ },
+ "Rua Antonio Felipe, 202": {
+  "lat": -22.3212406,
+  "lng": -47.3839378,
+  "label": "Rua Antônio Felipe, Jardim Alto da Colina, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-364, Brasil",
+  "quality": "number"
+ },
+ "Rua Antônio Pereira da Silva, 18": {
+  "lat": -22.3921894,
+  "lng": -47.3804716,
+  "label": "Rua Antônio Pereira da Silva, Jardim Planalto, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13609-428, Brasil",
+  "quality": "number"
+ },
+ "Rua Antônio Roveroni, 157 - Jardim Copacabana, Ara": {
+  "lat": -22.3785477,
+  "lng": -47.3805978,
+  "label": "Rua Antônio Roveroni, Jardim Copacabana, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13609-315, Brasil",
+  "quality": "number"
+ },
+ "Rua Aparecido Orlando Cabrini, 126": {
+  "lat": -22.3752524,
+  "lng": -47.3533111,
+  "label": "Rua Aparecido Orlando Cabrini, Jardim Santa Olívia III, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-790, Brasil",
+  "quality": "number"
+ },
+ "Rua Ardoino Zaniboni, 286-332": {
+  "lat": -22.3482783,
+  "lng": -47.3347253,
+  "label": "Rua Ardoino Zaniboni, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Rua Ardoino Zanobio, 19": {
+  "quality": "none"
+ },
+ "Rua Armando Tofolo, 150": {
+  "quality": "none"
+ },
+ "Rua Armando Tofolo, 276": {
+  "quality": "none"
+ },
+ "Rua Bahia, 114 - Jardim Marabá": {
+  "lat": -22.3741516,
+  "lng": -47.3880304,
+  "label": "Rua Bahia, Jardim Marabá, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Bahia, 207-255": {
+  "lat": -22.3726108,
+  "lng": -47.3836452,
+  "label": "Rua Henrique Dias, Vila Industrial, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Benedito Corrente, 50": {
+  "lat": -22.3803178,
+  "lng": -47.3746547,
+  "label": "Rua Benedito Corrente, Jardim Flamboyant, Jardim Ouro Verde II, Araras, São Paulo, Região Sudeste, 13609-200, Brasil",
+  "quality": "number"
+ },
+ "Rua Benedito P. Ramos, 142": {
+  "quality": "none"
+ },
+ "Rua Benjamin Constant, 702": {
+  "lat": -22.3563063,
+  "lng": -47.3920936,
+  "label": "Rua Benjamin Constant, Jardim São Joaquim, Centro, Araras, São Paulo, Região Sudeste, 13609-314, Brasil",
+  "quality": "number"
+ },
+ "Rua Blumenau, 170": {
+  "lat": -22.345837,
+  "lng": -47.4009024,
+  "label": "Rua Blumenau, Novo Jardim Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-112, Brasil",
+  "quality": "number"
+ },
+ "Rua Bruno Fiori - ServFort": {
+  "lat": -22.3743638,
+  "lng": -47.4012415,
+  "label": "Rua Bruno Fiori, Parque Cidade Jardim, Centro, Araras, São Paulo, Região Sudeste, 13602-101, Brasil",
+  "quality": "street"
+ },
+ "Rua Bruno Fiori, 70": {
+  "lat": -22.3743638,
+  "lng": -47.4012415,
+  "label": "Rua Bruno Fiori, Parque Cidade Jardim, Centro, Araras, São Paulo, Região Sudeste, 13602-101, Brasil",
+  "quality": "number"
+ },
+ "Rua Cândido Torales de Gismenes, 1-127": {
+  "quality": "none"
+ },
+ "Rua Cândido Torales de Gismenes, 239-309": {
+  "quality": "none"
+ },
+ "Rua Carlina Passos, 140": {
+  "lat": -22.3790564,
+  "lng": -47.3582089,
+  "label": "Rua Carlina Picolo dos Passos, Jardim das Nações II, Jardim Dom Bosco, Araras, São Paulo, Região Sudeste, 13607-350, Brasil",
+  "quality": "number"
+ },
+ "Rua Carlina Passos, 320": {
+  "lat": -22.3805083,
+  "lng": -47.3589015,
+  "label": "Rua Carlina Picolo dos Passos, Jardim das Nações II, Jardim Dom Bosco, Araras, São Paulo, Região Sudeste, 13607-350, Brasil",
+  "quality": "number"
+ },
+ "Rua Carlos Alberto Naitzel, 397-457": {
+  "lat": -22.3562935,
+  "lng": -47.3300709,
+  "label": "Rua Carlos Alberto Naitzel, Conjunto Habitacional Jardim José Ometto IV, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Carlos Alberto Naitzel, 398-458": {
+  "lat": -22.3574928,
+  "lng": -47.3323973,
+  "label": "Rua Carlos Alberto Naitzel, Conjunto Habitacional Jardim José Ometto IV, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Carlos Alberto Naitzel, 709-763": {
+  "lat": -22.3574928,
+  "lng": -47.3323973,
+  "label": "Rua Carlos Alberto Naitzel, Conjunto Habitacional Jardim José Ometto IV, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Carlos Alberto Naitzel, 710-764": {
+  "lat": -22.3562935,
+  "lng": -47.3300709,
+  "label": "Rua Carlos Alberto Naitzel, Conjunto Habitacional Jardim José Ometto IV, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Catharina Agostini, 215": {
+  "lat": -22.3783198,
+  "lng": -47.3744185,
+  "label": "Rua Catharina Agostini, Jardim Flamboyant, Jardim Ouro Verde II, Araras, São Paulo, Região Sudeste, 13609-200, Brasil",
+  "quality": "number"
+ },
+ "Rua Célso Luz, 66-166": {
+  "lat": -22.3821841,
+  "lng": -47.379821,
+  "label": "Rua Celso Luz, Bosque de Versalles, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13609-315, Brasil",
+  "quality": "number"
+ },
+ "Rua César Dezoti - mercearia": {
+  "quality": "none"
+ },
+ "Rua César Dezoti - terreno igreja": {
+  "quality": "none"
+ },
+ "Rua Cesar Dezotti, 762": {
+  "lat": -22.3236151,
+  "lng": -47.3794456,
+  "label": "Rua César Dezotti, Jardim Pedras Preciosas, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-476, Brasil",
+  "quality": "number"
+ },
+ "Rua César Zanca, 299": {
+  "quality": "none"
+ },
+ "Rua César Zanca, 306": {
+  "quality": "none"
+ },
+ "Rua Ciro Lagazi, 1022-1090": {
+  "quality": "none"
+ },
+ "Rua Ciro Lagazi, 1212-1292": {
+  "quality": "none"
+ },
+ "Rua Ciro Lagazi, 648-756": {
+  "quality": "none"
+ },
+ "Rua Clóvis Beviláqua, 125-185": {
+  "lat": -22.3689448,
+  "lng": -47.3882515,
+  "label": "Rua Clóvis Beviláqua, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-190, Brasil",
+  "quality": "number"
+ },
+ "Rua Clóvis Beviláqua, 128-186": {
+  "lat": -22.3689448,
+  "lng": -47.3882515,
+  "label": "Rua Clóvis Beviláqua, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-190, Brasil",
+  "quality": "number"
+ },
+ "Rua Clóvis Beviláqua, 25-117": {
+  "lat": -22.3674186,
+  "lng": -47.3884881,
+  "label": "Rua Clóvis Beviláqua, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-190, Brasil",
+  "quality": "number"
+ },
+ "Rua Clóvis Beviláqua, 60": {
+  "lat": -22.3689448,
+  "lng": -47.3882515,
+  "label": "Rua Clóvis Beviláqua, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-190, Brasil",
+  "quality": "number"
+ },
+ "Rua Comerciário, 201": {
+  "lat": -22.3503671,
+  "lng": -47.3384217,
+  "label": "Rua do Comerciário, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Rua Comerciário, 259-307": {
+  "lat": -22.3503671,
+  "lng": -47.3384217,
+  "label": "Rua do Comerciário, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Rua Comerciário, 260-308": {
+  "lat": -22.3503671,
+  "lng": -47.3384217,
+  "label": "Rua do Comerciário, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Rua Comerciário, 56-104": {
+  "lat": -22.3503671,
+  "lng": -47.3384217,
+  "label": "Rua do Comerciário, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Rua Coronel Justiniano, 2-52": {
+  "lat": -22.3577686,
+  "lng": -47.3848817,
+  "label": "Rua Coronel Justiniano, Chácara Paraíso, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-901, Brasil",
+  "quality": "number"
+ },
+ "Rua Coronel Justiniano, 340-408": {
+  "lat": -22.3577686,
+  "lng": -47.3848817,
+  "label": "Rua Coronel Justiniano, Chácara Paraíso, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-901, Brasil",
+  "quality": "number"
+ },
+ "Rua da Tecelã, 464": {
+  "lat": -22.3527655,
+  "lng": -47.3394046,
+  "label": "Rua da Tecelã, Conjunto Habitacional Jardim José Ometto III, Araras, São Paulo, Região Sudeste, 13606-317, Brasil",
+  "quality": "number"
+ },
+ "Rua das Flores, 196": {
+  "lat": -22.3678308,
+  "lng": -47.4059612,
+  "label": "Rua das Flores, Loteamento Industrial, Centro, Araras, São Paulo, Região Sudeste, 13602-060, Brasil",
+  "quality": "number"
+ },
+ "Rua das Flores, 440": {
+  "lat": -22.3678308,
+  "lng": -47.4059612,
+  "label": "Rua das Flores, Distrito Municipal Industrial I, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13602-060, Brasil",
+  "quality": "number"
+ },
+ "Rua Das Tulipas, 705-763": {
+  "lat": -22.3643,
+  "lng": -47.3966125,
+  "label": "Rua das Tulipas, Jardim São Luis, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13602-014, Brasil",
+  "quality": "number"
+ },
+ "Rua Diadema, 65": {
+  "lat": -22.3377517,
+  "lng": -47.3814775,
+  "label": "Rua Diadema, Jardim Piratinga, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-186, Brasil",
+  "quality": "number"
+ },
+ "Rua Domingos Graziano - oposto Curtume": {
+  "lat": -22.3581568,
+  "lng": -47.3712573,
+  "label": "Rua Doutor Fábio Fachini, Vila Candinha, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13607-207, Brasil",
+  "quality": "street"
+ },
+ "Rua Domingos Graziano, 13 - Cafe Junior": {
+  "lat": -22.3590344,
+  "lng": -47.3802079,
+  "label": "Rua Domingos Graziano, Chácara Fachini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-695, Brasil",
+  "quality": "number"
+ },
+ "Rua Domingos Graziano, 450-626": {
+  "lat": -22.3590344,
+  "lng": -47.3802079,
+  "label": "Rua Domingos Graziano, Chácara Fachini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-695, Brasil",
+  "quality": "number"
+ },
+ "Rua dos Antúrios, 250-294": {
+  "lat": -22.3604158,
+  "lng": -47.3990362,
+  "label": "Rua dos Antúrios, Jardim Sobradinho, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13602-014, Brasil",
+  "quality": "number"
+ },
+ "Rua dos Coroados, 117-135": {
+  "lat": -22.3604952,
+  "lng": -47.3736792,
+  "label": "Rua dos Coroados, Vila Candinha, Vila Michelin, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13607-010, Brasil",
+  "quality": "number"
+ },
+ "Rua dos Coroados, 143": {
+  "lat": -22.3604952,
+  "lng": -47.3736792,
+  "label": "Rua dos Coroados, Vila Candinha, Vila Michelin, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13607-010, Brasil",
+  "quality": "number"
+ },
+ "Rua dos Tapuias, 726": {
+  "lat": -22.3612636,
+  "lng": -47.3716071,
+  "label": "Rua Tapuias, Vila Candinha, Vila Michelin, Centro, Araras, São Paulo, Região Sudeste, 13607-010, Brasil",
+  "quality": "number"
+ },
+ "Rua Doutor Armando Sales de Oliveira, 67-95": {
+  "lat": -22.3572179,
+  "lng": -47.3804645,
+  "label": "Rua Doutor Armando Sales de Oliveira, Chácara Paraíso, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-720, Brasil",
+  "quality": "number"
+ },
+ "Rua Duque de Caxias, 444-806": {
+  "lat": -22.3661686,
+  "lng": -47.3840679,
+  "label": "Rua Duque de Caxias, Vila Industrial, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-056, Brasil",
+  "quality": "number"
+ },
+ "Rua Emílio Ferreira, 40": {
+  "lat": -22.3538338,
+  "lng": -47.3773687,
+  "label": "Rua Emílio Ferreira, Jardim São Benedito, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua Emílio Ferreira, 422": {
+  "lat": -22.3538338,
+  "lng": -47.3773687,
+  "label": "Rua Emílio Ferreira, Jardim São Benedito, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua Emílio Pacagnela, 1058": {
+  "quality": "none"
+ },
+ "Rua Emílio Pacagnela, 157": {
+  "quality": "none"
+ },
+ "Rua Emílio Pacagnela, 166": {
+  "quality": "none"
+ },
+ "Rua Emílio Pacagnela, 32-88": {
+  "quality": "none"
+ },
+ "Rua Emílio Pacagnela, 416": {
+  "quality": "none"
+ },
+ "Rua Emílio Pacagnela, 417": {
+  "quality": "none"
+ },
+ "Rua Emílio Pacagnela, 586": {
+  "quality": "none"
+ },
+ "Rua Emílio Pacagnela, 587": {
+  "quality": "none"
+ },
+ "Rua Emílio Pacagnela, 712-796": {
+  "quality": "none"
+ },
+ "Rua Emílio Pacagnela, 797": {
+  "quality": "none"
+ },
+ "Rua Eufrásio Brusco, 99": {
+  "lat": -22.3837492,
+  "lng": -47.3795496,
+  "label": "Rua Eufrásio Brusco, Jardim Bela Vista, Vila Dona Rosa Zurita, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13609-388, Brasil",
+  "quality": "number"
+ },
+ "Rua Eugênio Petroni, 160": {
+  "lat": -22.344141,
+  "lng": -47.3704672,
+  "label": "Rua Eugenio Petroni, Jardim São João, Jardim São Pedro, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Fernado Guerreiro L Franco, 58": {
+  "quality": "none"
+ },
+ "Rua Florianópolis, 191-315": {
+  "lat": -22.3553855,
+  "lng": -47.416411,
+  "label": "Rua Florianópolis, Jardim Vista Alegre, Araras, São Paulo, Região Sudeste, 13603-081, Brasil",
+  "quality": "number"
+ },
+ "Rua França, 28": {
+  "lat": -22.3450299,
+  "lng": -47.3800392,
+  "label": "Rua Franca, Vila Europa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-230, Brasil",
+  "quality": "number"
+ },
+ "Rua Francisco Batista, 172": {
+  "quality": "none"
+ },
+ "Rua Francisco Leite, 263": {
+  "lat": -22.3566076,
+  "lng": -47.388149,
+  "label": "Rua Francisco Leite, Chácara Pastorello, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-170, Brasil",
+  "quality": "number"
+ },
+ "Rua Francisco Natal, 136": {
+  "lat": -22.3323826,
+  "lng": -47.3792296,
+  "label": "Rua Francisco Natal, Jardim Alvorada, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-312, Brasil",
+  "quality": "number"
+ },
+ "Rua Francisco Natal, 285": {
+  "lat": -22.3323826,
+  "lng": -47.3792296,
+  "label": "Rua Francisco Natal, Jardim Alvorada, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-312, Brasil",
+  "quality": "number"
+ },
+ "Rua Francisco Perin, 105": {
+  "lat": -22.3770981,
+  "lng": -47.3538363,
+  "label": "Rua Francisco Perin, Jardim Santa Olívia III, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-790, Brasil",
+  "quality": "number"
+ },
+ "Rua Francisco Trevisan, 243": {
+  "quality": "none"
+ },
+ "Rua Genésio Gaboli, 202-246": {
+  "lat": -22.3605952,
+  "lng": -47.334212,
+  "label": "Rua Genésio Gaboli, Conjunto Habitacional Jardim José Ometto V, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Genésio Gaboli, 22": {
+  "lat": -22.3605952,
+  "lng": -47.334212,
+  "label": "Rua Genésio Gaboli, Conjunto Habitacional Jardim José Ometto V, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Germano Belatine, 112-196": {
+  "quality": "none"
+ },
+ "Rua Germano Belatine, 493": {
+  "quality": "none"
+ },
+ "Rua Germano Quenzer, 459": {
+  "lat": -22.3418909,
+  "lng": -47.3973503,
+  "label": "Rua Germano Quenzer, Parque Santa Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-112, Brasil",
+  "quality": "number"
+ },
+ "Rua Giocondo Batistella, 91": {
+  "lat": -22.3536875,
+  "lng": -47.3279646,
+  "label": "Rua Giocondo Batistella, Jardim Morumbi, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Godofredo Teixeira da Silva Teles, 1815": {
+  "quality": "none"
+ },
+ "Rua Gonçalves Ledo, 126": {
+  "lat": -22.3731856,
+  "lng": -47.3665437,
+  "label": "Rua Gonçalves Ledo, Jardim Abolição de Lourenço Dias, Jardim Ouro Verde II, Araras, São Paulo, Região Sudeste, 13607-505, Brasil",
+  "quality": "number"
+ },
+ "Rua Helison Éden Fioramonte, 304-362": {
+  "lat": -22.3888612,
+  "lng": -47.3766519,
+  "label": "Rua Helison Eden Fioramonte, Jardim Dalla Costa, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13609-428, Brasil",
+  "quality": "number"
+ },
+ "Rua Helison Éden Fioramonte, 492-554": {
+  "lat": -22.3888612,
+  "lng": -47.3766519,
+  "label": "Rua Helison Eden Fioramonte, Jardim Dalla Costa, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13609-428, Brasil",
+  "quality": "number"
+ },
+ "Rua Henrique Dias, 717": {
+  "lat": -22.3716457,
+  "lng": -47.38581,
+  "label": "Rua Henrique Dias, Vila Industrial, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Industriário, 141-263": {
+  "lat": -22.3562683,
+  "lng": -47.3416722,
+  "label": "Rua Industriário, Bairro do Loreto, Araras, São Paulo, Região Sudeste, 13606-020, Brasil",
+  "quality": "number"
+ },
+ "Rua Irineu Tôrres, 1-337": {
+  "lat": -22.3750955,
+  "lng": -47.4059829,
+  "label": "Rua Irineu Torres, Parque Cidade Jardim, Araras, São Paulo, Região Sudeste, 13602-060, Brasil",
+  "quality": "number"
+ },
+ "Rua Jarbas Leme de Godói, 454": {
+  "quality": "none"
+ },
+ "Rua Jarbas Leme de Godói, 860": {
+  "quality": "none"
+ },
+ "Rua Jarbas Leme de Godoy, 268": {
+  "lat": -22.3599213,
+  "lng": -47.3315979,
+  "label": "Rua Jarbas Leme de Godoy, Conjunto Habitacional Jardim José Ometto II, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-423, Brasil",
+  "quality": "number"
+ },
+ "Rua Jarbas Leme de Godoy, 306": {
+  "lat": -22.3570689,
+  "lng": -47.3332824,
+  "label": "Rua Jarbas Leme de Godoy, Conjunto Habitacional Jardim José Ometto IV, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Jarbas Leme de Godoy, 421-531": {
+  "lat": -22.3570689,
+  "lng": -47.3332824,
+  "label": "Rua Jarbas Leme de Godoy, Conjunto Habitacional Jardim José Ometto IV, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Jarbas Leme de Godoy, 452": {
+  "lat": -22.3570689,
+  "lng": -47.3332824,
+  "label": "Rua Jarbas Leme de Godoy, Conjunto Habitacional Jardim José Ometto IV, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Jarbas Leme de Godoy, 791-1003": {
+  "lat": -22.3570689,
+  "lng": -47.3332824,
+  "label": "Rua Jarbas Leme de Godoy, Conjunto Habitacional Jardim José Ometto IV, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Joao Alfredo Graf, 295": {
+  "lat": -22.3465829,
+  "lng": -47.3257226,
+  "label": "Avenida João Alfredo Graf, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Joao Alfredo Graf, 356": {
+  "lat": -22.3465829,
+  "lng": -47.3257226,
+  "label": "Avenida João Alfredo Graf, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Joao Alfredo Graf, 388": {
+  "lat": -22.3465829,
+  "lng": -47.3257226,
+  "label": "Avenida João Alfredo Graf, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Joao Alfredo Graf, 558": {
+  "lat": -22.3547909,
+  "lng": -47.3209054,
+  "label": "Avenida João Alfredo Graf, Jardim Portal do Sol, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Joao Alfredo Graf, 950": {
+  "lat": -22.3465829,
+  "lng": -47.3257226,
+  "label": "Avenida João Alfredo Graf, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua João Antônio da Silva, 235": {
+  "lat": -22.3777412,
+  "lng": -47.3628534,
+  "label": "Rua João Antônio da Silva, Jardim das Nações, Jardim Dom Bosco, Araras, São Paulo, Região Sudeste, 13607-350, Brasil",
+  "quality": "number"
+ },
+ "Rua João Buzo, 1029": {
+  "lat": -22.3651983,
+  "lng": -47.4071499,
+  "label": "Rua João Buzo, Jardim Cambuí, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13602-060, Brasil",
+  "quality": "number"
+ },
+ "Rua João Buzolin, 141": {
+  "lat": -22.3637983,
+  "lng": -47.3644584,
+  "label": "Rua João Buzolin, Jardim Nova Suissa, Heitor Villa Lobos, Centro, Araras, São Paulo, Região Sudeste, 13607-213, Brasil",
+  "quality": "number"
+ },
+ "Rua João Buzolin, 369-417": {
+  "lat": -22.3637983,
+  "lng": -47.3644584,
+  "label": "Rua João Buzolin, Jardim Nova Suissa, Heitor Villa Lobos, Centro, Araras, São Paulo, Região Sudeste, 13607-213, Brasil",
+  "quality": "number"
+ },
+ "Rua João Buzolin, 534-594": {
+  "lat": -22.3637983,
+  "lng": -47.3644584,
+  "label": "Rua João Buzolin, Jardim Pousada dos Barões, Jardim Luiza Maria, Araras, São Paulo, Região Sudeste, 13607-213, Brasil",
+  "quality": "number"
+ },
+ "Rua João Constantino Gosroto, 182": {
+  "quality": "none"
+ },
+ "Rua João de Oliveira, 204": {
+  "lat": -22.3355286,
+  "lng": -47.3523807,
+  "label": "Rua João Domingos de Oliveira, Santo Antônio, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13605-339, Brasil",
+  "quality": "number"
+ },
+ "Rua João de Oliveira, 217": {
+  "lat": -22.3674862,
+  "lng": -47.3480474,
+  "label": "Rua João Paulo de Oliveira, Terras de Carolina, Jardim Tangará, Araras, São Paulo, Região Sudeste, 13607-005, Brasil",
+  "quality": "number"
+ },
+ "Rua João de Oliveira, 233": {
+  "lat": -22.3355286,
+  "lng": -47.3523807,
+  "label": "Rua João Domingos de Oliveira, Santo Antônio, Conjunto Residencial Prefeito Professor Milton Severino, Araras, São Paulo, Região Sudeste, 13605-339, Brasil",
+  "quality": "number"
+ },
+ "Rua Joao Francisco Basqueira, 204": {
+  "lat": -22.3624028,
+  "lng": -47.3339319,
+  "label": "Rua João Francisco Basqueira, Conjunto Habitacional Jardim José Ometto V, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-423, Brasil",
+  "quality": "number"
+ },
+ "Rua Joao Luzetti, 270": {
+  "lat": -22.368676,
+  "lng": -47.3426887,
+  "label": "Rua João Luzetti, Jardim Tangará, Araras, São Paulo, Região Sudeste, 13607-005, Brasil",
+  "quality": "number"
+ },
+ "Rua Joao Luzetti, 70": {
+  "lat": -22.368676,
+  "lng": -47.3426887,
+  "label": "Rua João Luzetti, Jardim Tangará, Araras, São Paulo, Região Sudeste, 13607-005, Brasil",
+  "quality": "number"
+ },
+ "Rua João Marreto, 321": {
+  "lat": -22.3757078,
+  "lng": -47.3517971,
+  "label": "Rua João Marreto, Jardim Santa Olívia III, Jardim Tangará, Araras, São Paulo, Região Sudeste, 13607-790, Brasil",
+  "quality": "number"
+ },
+ "Rua João Roveroni, 246": {
+  "lat": -22.3692044,
+  "lng": -47.355548,
+  "label": "Rua João Roveroni, Condomínio Habitacional Heitor Vila Lobos, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Rua João Roveroni, 249": {
+  "lat": -22.3692044,
+  "lng": -47.355548,
+  "label": "Rua João Roveroni, Condomínio Habitacional Heitor Vila Lobos, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Rua Joao Turatti, 15": {
+  "lat": -22.3609083,
+  "lng": -47.3357654,
+  "label": "Rua João Turatti, Conjunto Habitacional Jardim José Ometto V, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua José Antônio Cressoni, 330": {
+  "lat": -22.3837215,
+  "lng": -47.3745573,
+  "label": "Rua José Antônio Cressoni, Jardim Terra Nobre, Jardim Ouro Verde II, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13609-200, Brasil",
+  "quality": "number"
+ },
+ "Rua José Antônio Cressoni, 330-412": {
+  "lat": -22.3837215,
+  "lng": -47.3745573,
+  "label": "Rua José Antônio Cressoni, Jardim Terra Nobre, Jardim Ouro Verde II, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13609-200, Brasil",
+  "quality": "number"
+ },
+ "Rua José Antônio Cressoni, 742": {
+  "lat": -22.3817699,
+  "lng": -47.3792036,
+  "label": "Rua José Antônio Cressoni, Jardim Bela Vista, Vila Dona Rosa Zurita, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13609-315, Brasil",
+  "quality": "number"
+ },
+ "Rua José Fernandes, 215": {
+  "lat": -22.3459325,
+  "lng": -47.3294644,
+  "label": "Rua José Fernandes, Parque Tiradentes, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua José Fernandes, 350": {
+  "lat": -22.3461497,
+  "lng": -47.3304542,
+  "label": "Rua Olivério Morgado, Parque Tiradentes, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua José Fernandes, 525": {
+  "lat": -22.3459325,
+  "lng": -47.3294644,
+  "label": "Rua José Fernandes, Parque Tiradentes, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua José Fernandes, 597": {
+  "lat": -22.3459325,
+  "lng": -47.3294644,
+  "label": "Rua José Fernandes, Parque Tiradentes, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua José Fernandes, 709": {
+  "lat": -22.3459325,
+  "lng": -47.3294644,
+  "label": "Rua José Fernandes, Parque Tiradentes, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua José Ferreira Marques": {
+  "lat": -22.3685895,
+  "lng": -47.3446837,
+  "label": "Rua José Ferreira Marques, Jardim Tangará, Araras, São Paulo, Região Sudeste, 13607-005, Brasil",
+  "quality": "street"
+ },
+ "Rua José Graziano, 91": {
+  "lat": -22.3753309,
+  "lng": -47.3994414,
+  "label": "Rua José Graziano, Distrito Municipal Industrial III, Araras, São Paulo, Região Sudeste, 13602-101, Brasil",
+  "quality": "number"
+ },
+ "Rua Jose Kauffaman, 104": {
+  "quality": "none"
+ },
+ "Rua José Kauffmann, 178-240": {
+  "lat": -22.3543791,
+  "lng": -47.3255584,
+  "label": "Rua Luiz Ribeiro, Sítio São Gerônimo, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua José Marquês da Silva - UNIMED": {
+  "quality": "none"
+ },
+ "Rua José Sorrosal - Igreja": {
+  "lat": -22.35154,
+  "lng": -47.3268247,
+  "label": "Rua José Sorrosal, Sítio São Gerônimo, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "street"
+ },
+ "Rua José Sotini, 116-210": {
+  "quality": "none"
+ },
+ "Rua José Sotini, 2-82": {
+  "quality": "none"
+ },
+ "Rua José Sotini, 20": {
+  "quality": "none"
+ },
+ "Rua José Sotini, 584-634": {
+  "quality": "none"
+ },
+ "Rua José Sotini, 594-658": {
+  "quality": "none"
+ },
+ "Rua José Sotini, 75": {
+  "quality": "none"
+ },
+ "Rua Júlio Storoli, 37-101": {
+  "quality": "none"
+ },
+ "Rua Júlio Ulson, 223": {
+  "quality": "none"
+ },
+ "Rua Labruna José Batistela, 247-303": {
+  "quality": "none"
+ },
+ "Rua Laerte Daltro, 366": {
+  "lat": -22.3685525,
+  "lng": -47.3542435,
+  "label": "Rua Laerte Daltro, Condomínio Habitacional Heitor Vila Lobos, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-450, Brasil",
+  "quality": "number"
+ },
+ "Rua Laérte Gressoni, 133-199": {
+  "lat": -22.3494694,
+  "lng": -47.4084208,
+  "label": "Rua Laerte Gressoni, Jardim Rosana, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-081, Brasil",
+  "quality": "number"
+ },
+ "Rua Laerte Tognasca, 268": {
+  "lat": -22.3491671,
+  "lng": -47.3310876,
+  "label": "Rua Darly Gândara, Parque Dom Pedro, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Laerte Tognasca, 63": {
+  "lat": -22.348555,
+  "lng": -47.3330608,
+  "label": "Rua Laerte Tognasca, Parque Dom Pedro, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Laerte Tognasca, 76": {
+  "lat": -22.3461497,
+  "lng": -47.3304542,
+  "label": "Rua Olivério Morgado, Parque Tiradentes, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Laerte Tognasca, 78": {
+  "lat": -22.3491671,
+  "lng": -47.3310876,
+  "label": "Rua Darly Gândara, Parque Dom Pedro, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "number"
+ },
+ "Rua Laurindo Fazanaro, 177-345": {
+  "lat": -22.3542533,
+  "lng": -47.3276983,
+  "label": "Rua Laurindo Fazanaro, Jardim Morumbi, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Laurindo Fazanaro, 224": {
+  "lat": -22.3542533,
+  "lng": -47.3276983,
+  "label": "Rua Laurindo Fazanaro, Jardim Morumbi, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Lauro Beinoti, 191": {
+  "quality": "none"
+ },
+ "Rua Lauro Beinoti, 211": {
+  "quality": "none"
+ },
+ "Rua Lauro Benotti, 74": {
+  "quality": "none"
+ },
+ "Rua Lauro Muller, 58": {
+  "lat": -22.3603619,
+  "lng": -47.3272455,
+  "label": "Rua Lauro Muller, Conjunto Residencial Prefeito Warley Colombini, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13601-111, Brasil",
+  "quality": "number"
+ },
+ "Rua Lázaro da Cruz, 125": {
+  "lat": -22.3730544,
+  "lng": -47.3491243,
+  "label": "Rua Lázaro da Cruz, Jardim Santa Olívia III, Jardim Tangará, Araras, São Paulo, Região Sudeste, 13607-005, Brasil",
+  "quality": "number"
+ },
+ "Rua Lins, 120": {
+  "lat": -22.3464655,
+  "lng": -47.3839885,
+  "label": "Rua Lins, Jardim Santa Rosa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-150, Brasil",
+  "quality": "number"
+ },
+ "Rua Lírios, 131": {
+  "lat": -22.361485,
+  "lng": -47.3978674,
+  "label": "Rua dos Lírios, Jardim São Luis, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13602-014, Brasil",
+  "quality": "number"
+ },
+ "Rua Lourdes Chaib de Oliveira, 282": {
+  "lat": -22.3486164,
+  "lng": -47.3365168,
+  "label": "Rua Lourdes Chaib de Oliveira, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-414, Brasil",
+  "quality": "number"
+ },
+ "Rua Luís Casonato, 266 - Parque das Árvores": {
+  "quality": "none"
+ },
+ "Rua Luís Golineli, 206": {
+  "quality": "none"
+ },
+ "Rua Luís Golineli, 480": {
+  "quality": "none"
+ },
+ "Rua Luís Michelin, 224 - Julio Ridolfo": {
+  "quality": "none"
+ },
+ "Rua Luiz Apolari, 238": {
+  "lat": -22.3734515,
+  "lng": -47.3516553,
+  "label": "Rua Luiz Apolari, Jardim Santa Olívia III, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-005, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiz Apolari, 314": {
+  "lat": -22.3734515,
+  "lng": -47.3516553,
+  "label": "Rua Luiz Apolari, Jardim Santa Olívia III, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-005, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiz Campagna, 45": {
+  "quality": "none"
+ },
+ "Rua Luiz de Ponte": {
+  "lat": -22.3474617,
+  "lng": -47.3173025,
+  "label": "Rua Luiz de Ponte, Distrito Municipal Industrial IV Adolpho Mathiesen, Assentamento Araras 4, Araras, São Paulo, Região Sudeste, 13606-630, Brasil",
+  "quality": "street"
+ },
+ "Rua Luiz Stefani, 184-208": {
+  "lat": -22.3766795,
+  "lng": -47.3905052,
+  "label": "Rua Luiz Stefani, Chácara Riachuello, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-351, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiz Stefani, 258": {
+  "lat": -22.3766795,
+  "lng": -47.3905052,
+  "label": "Rua Luiz Stefani, Chácara Riachuello, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-351, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiz Stefani, 334-382": {
+  "lat": -22.3766795,
+  "lng": -47.3905052,
+  "label": "Rua Luiz Stefani, Chácara Riachuello, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-351, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiz Stefani, 396": {
+  "lat": -22.3770347,
+  "lng": -47.3892099,
+  "label": "Rua Luiz Stefani, Chácara Riachuello, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-351, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiza Metzner de Moraes, 2-72": {
+  "lat": -22.3559404,
+  "lng": -47.3293796,
+  "label": "Rua Carlos Alberto Naitzel, Conjunto Habitacional Jardim José Ometto IV, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiza Metzner de Moraes, 212": {
+  "lat": -22.3559404,
+  "lng": -47.3293796,
+  "label": "Rua Carlos Alberto Naitzel, Conjunto Habitacional Jardim José Ometto IV, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiza Metzner de Moraes, 222": {
+  "lat": -22.3559404,
+  "lng": -47.3293796,
+  "label": "Rua Carlos Alberto Naitzel, Conjunto Habitacional Jardim José Ometto IV, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiza Metzner de Moraes, 232": {
+  "lat": -22.3559404,
+  "lng": -47.3293796,
+  "label": "Rua Carlos Alberto Naitzel, Conjunto Habitacional Jardim José Ometto IV, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Luiza Metzner de Moraes, 57": {
+  "lat": -22.3559404,
+  "lng": -47.3293796,
+  "label": "Rua Carlos Alberto Naitzel, Conjunto Habitacional Jardim José Ometto IV, Araras, São Paulo, Região Sudeste, 13606-508, Brasil",
+  "quality": "number"
+ },
+ "Rua Maranhão, 300": {
+  "lat": -22.3735445,
+  "lng": -47.3899846,
+  "label": "Rua Maranhão, Jardim Marabá, Vila Michelin, Centro, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Marcos Freire, 2-168": {
+  "lat": -22.3303482,
+  "lng": -47.3857918,
+  "label": "Rua Marcos Freire, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-198, Brasil",
+  "quality": "number"
+ },
+ "Rua Marcos Freire,333 - Parque das Árvores": {
+  "lat": -22.3303482,
+  "lng": -47.3857918,
+  "label": "Rua Marcos Freire, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-198, Brasil",
+  "quality": "number"
+ },
+ "Rua Maria Aparecida Zambon Dala Costa, 129": {
+  "quality": "none"
+ },
+ "Rua Maria do Carmo Fin": {
+  "lat": -22.36744,
+  "lng": -47.3454799,
+  "label": "Rua Maria do Carmo Borges Fin, Jardim Tangará, Araras, São Paulo, Região Sudeste, 13607-005, Brasil",
+  "quality": "street"
+ },
+ "Rua Maria Luiza Finardi Mazetto": {
+  "quality": "none"
+ },
+ "Rua Maria M. S. Izidoro, 42": {
+  "quality": "none"
+ },
+ "Rua Mário Neudini, 68": {
+  "lat": -22.3791915,
+  "lng": -47.374621,
+  "label": "Rua Mário Neudini, Jardim Flamboyant, Jardim Ouro Verde II, Araras, São Paulo, Região Sudeste, 13609-200, Brasil",
+  "quality": "number"
+ },
+ "Rua Mato Grosso, 247": {
+  "lat": -22.3725224,
+  "lng": -47.3890419,
+  "label": "Rua Mato Grosso, Jardim Marabá, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Mato Grosso, 278-358": {
+  "lat": -22.3725224,
+  "lng": -47.3890419,
+  "label": "Rua Mato Grosso, Jardim Marabá, Vila Michelin, Centro, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Nicola Rici, 68": {
+  "quality": "none"
+ },
+ "Rua Nicolau Canônico, 222-378": {
+  "lat": -22.3447622,
+  "lng": -47.3993075,
+  "label": "Rua Nicolau Canônico, Parque Santa Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-112, Brasil",
+  "quality": "number"
+ },
+ "Rua Nicolau Canônico, 424-454": {
+  "lat": -22.3447622,
+  "lng": -47.3993075,
+  "label": "Rua Nicolau Canônico, Parque Santa Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-112, Brasil",
+  "quality": "number"
+ },
+ "Rua Nunes Machado, 328": {
+  "lat": -22.3587603,
+  "lng": -47.3837613,
+  "label": "Rua Nunes Machado, Chácara Fachini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-040, Brasil",
+  "quality": "number"
+ },
+ "Rua Nunes Machado, 610-650": {
+  "lat": -22.3618343,
+  "lng": -47.3820214,
+  "label": "Avenida Dona Renata, Chácara Fachini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13601-060, Brasil",
+  "quality": "number"
+ },
+ "Rua Orfeu Colombini, 95": {
+  "lat": -22.3267885,
+  "lng": -47.3829486,
+  "label": "Rua Orfeu Colombini, Jardim Alto da Colina, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-198, Brasil",
+  "quality": "number"
+ },
+ "Rua Orfeu Colombini,275": {
+  "lat": -22.3267885,
+  "lng": -47.3829486,
+  "label": "Rua Orfeu Colombini, Jardim Alto da Colina, Parque das Árvores, Araras, São Paulo, Região Sudeste, 13604-198, Brasil",
+  "quality": "number"
+ },
+ "Rua Orquídeas, 257-331": {
+  "lat": -22.35708,
+  "lng": -47.3955136,
+  "label": "Rua das Orquídeas, Jardim Cândida, Araras, São Paulo, Região Sudeste, 13603-013, Brasil",
+  "quality": "number"
+ },
+ "Rua Orquídeas, 55": {
+  "lat": -22.3601498,
+  "lng": -47.3977459,
+  "label": "Rua das Orquídeas, Jardim Sobradinho, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13602-014, Brasil",
+  "quality": "number"
+ },
+ "Rua Osvaldo Rodrigues, 126-160": {
+  "quality": "none"
+ },
+ "Rua Osvaldo Rodrigues, 161-207": {
+  "quality": "none"
+ },
+ "Rua Oswaldo Antonio Scabora": {
+  "quality": "none"
+ },
+ "Rua Otávio Rueger, 250-322": {
+  "quality": "none"
+ },
+ "Rua Padre Ângelo Longhi, 311-401": {
+  "lat": -22.3687143,
+  "lng": -47.386855,
+  "label": "Rua Padre Ângelo Longhi, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-056, Brasil",
+  "quality": "number"
+ },
+ "Rua Padre Casemiro, 70-140": {
+  "lat": -22.3525532,
+  "lng": -47.37645,
+  "label": "Rua Padre Casemiro, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-092, Brasil",
+  "quality": "number"
+ },
+ "Rua Padre Santo Marino, 78-164": {
+  "lat": -22.3525989,
+  "lng": -47.3987631,
+  "label": "Rua Padre Santo Marino, Jardim Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-019, Brasil",
+  "quality": "number"
+ },
+ "Rua Palmyra Pipa Zani, 10": {
+  "quality": "none"
+ },
+ "Rua Palmyra Pipa Zani, 30": {
+  "quality": "none"
+ },
+ "Rua Palmyra Pipa Zeni, 100": {
+  "quality": "none"
+ },
+ "Rua Paraíba, 382": {
+  "lat": -22.3742414,
+  "lng": -47.3892519,
+  "label": "Rua Paraíba, Jardim Marabá, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Paraiba, 401": {
+  "lat": -22.3792237,
+  "lng": -47.3915389,
+  "label": "Rua Santa Catarina, Chácara Riachuello, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-351, Brasil",
+  "quality": "number"
+ },
+ "Rua Paraná, 207-301": {
+  "lat": -22.3725678,
+  "lng": -47.3922324,
+  "label": "Rua Paraná, Jardim Nova Araras, Vila Dona Rosa Zurita, Centro, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Paraná, 208-302": {
+  "lat": -22.3725678,
+  "lng": -47.3922324,
+  "label": "Rua Paraná, Jardim Nova Araras, Vila Dona Rosa Zurita, Centro, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Parana, 412": {
+  "lat": -22.3725678,
+  "lng": -47.3922324,
+  "label": "Rua Paraná, Jardim Nova Araras, Vila Dona Rosa Zurita, Centro, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Paulo Américo Russo, 192": {
+  "lat": -22.3658414,
+  "lng": -47.3615192,
+  "label": "Rua Paulo Américo Russo, Jardim Oswaldo Buzolin, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-213, Brasil",
+  "quality": "number"
+ },
+ "Rua Paulo Côrte, 129-169": {
+  "lat": -22.375948,
+  "lng": -47.3629941,
+  "label": "Rua Paulo Côrte, Jardim Ouro Verde, Jardim Dom Bosco, Araras, São Paulo, Região Sudeste, 13607-505, Brasil",
+  "quality": "number"
+ },
+ "Rua Paz, 1-65": {
+  "lat": -22.3714481,
+  "lng": -47.3649571,
+  "label": "Rua da Paz, Jardim Abolição de Lourenço Dias, Jardim Luiza Maria, Centro, Araras, São Paulo, Região Sudeste, 13607-505, Brasil",
+  "quality": "number"
+ },
+ "Rua Pedro de Melo, 1554-1612": {
+  "quality": "none"
+ },
+ "Rua Pedro de Melo, 2-12": {
+  "quality": "none"
+ },
+ "Rua Pedro de Melo, 990": {
+  "quality": "none"
+ },
+ "Rua Pedro Moscarde, 101-151": {
+  "lat": -22.3562849,
+  "lng": -47.3334471,
+  "label": "Rua Pedro Moscarde, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Pedro Moscarde, 154-206": {
+  "lat": -22.3562849,
+  "lng": -47.3334471,
+  "label": "Rua Pedro Moscarde, Conjunto Habitacional Jardim José Ometto II, Araras, São Paulo, Região Sudeste, 13606-410, Brasil",
+  "quality": "number"
+ },
+ "Rua Pérsio Galembeck Campos, 415": {
+  "lat": -22.3868103,
+  "lng": -47.3770407,
+  "label": "Rua Pérsio Galembeck Campos, Jardim Dalla Costa, Distrito Municipal José Graziano Filho (Zezito), Araras, São Paulo, Região Sudeste, 13609-428, Brasil",
+  "quality": "number"
+ },
+ "Rua Piracicaba, 1086": {
+  "lat": -22.3446016,
+  "lng": -47.3737043,
+  "label": "Rua Piracicaba, Jardim Mário Leite de Castro, Jardim São Pedro, Centro, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Piracicaba, 1105": {
+  "lat": -22.3446016,
+  "lng": -47.3737043,
+  "label": "Rua Piracicaba, Jardim Mário Leite de Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Piracicaba, 381": {
+  "lat": -22.3446016,
+  "lng": -47.3737043,
+  "label": "Rua Piracicaba, Jardim Mário Leite de Castro, Jardim São Pedro, Centro, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Piracicaba, 412": {
+  "lat": -22.3446016,
+  "lng": -47.3737043,
+  "label": "Rua Piracicaba, Jardim Mário Leite de Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Piracicaba, 539": {
+  "lat": -22.3446016,
+  "lng": -47.3737043,
+  "label": "Rua Piracicaba, Jardim Mário Leite de Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Piracicaba, 746": {
+  "lat": -22.3446016,
+  "lng": -47.3737043,
+  "label": "Rua Piracicaba, Jardim Mário Leite de Castro, Jardim São Pedro, Centro, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Piracicaba, 749": {
+  "lat": -22.3446016,
+  "lng": -47.3737043,
+  "label": "Rua Piracicaba, Jardim Mário Leite de Castro, Jardim São Pedro, Centro, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Piracicaba, 875": {
+  "lat": -22.3446016,
+  "lng": -47.3737043,
+  "label": "Rua Piracicaba, Jardim Mário Leite de Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Piracicaba, 904": {
+  "lat": -22.3446016,
+  "lng": -47.3737043,
+  "label": "Rua Piracicaba, Jardim Mário Leite de Castro, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Primo Basqueira, 280": {
+  "lat": -22.3425415,
+  "lng": -47.4025819,
+  "label": "Rua Primo Basqueira, Jardim Marilúcia, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-112, Brasil",
+  "quality": "number"
+ },
+ "Rua Prof. Vicente Casale Padovani, 173": {
+  "quality": "none"
+ },
+ "Rua Prof. Vicente Casale Padovani, 370": {
+  "quality": "none"
+ },
+ "Rua Prof. Vicente Casale Padovani, 601": {
+  "quality": "none"
+ },
+ "Rua Professor Ângelo Carminati, 135": {
+  "quality": "none"
+ },
+ "Rua Professor Ângelo Carminati, 60-272": {
+  "quality": "none"
+ },
+ "Rua Ranulfo Paulino Ramos, 203": {
+  "lat": -22.360834,
+  "lng": -47.3271894,
+  "label": "Rua Ranulfo Paulino Ramos, Conjunto Residencial Prefeito Warley Colombini, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13601-111, Brasil",
+  "quality": "number"
+ },
+ "Rua Recife, 127-179": {
+  "lat": -22.3479528,
+  "lng": -47.4034463,
+  "label": "Rua Recife, Novo Jardim Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-019, Brasil",
+  "quality": "number"
+ },
+ "Rua Reinaldo Bacaro, 333": {
+  "quality": "none"
+ },
+ "Rua Reinaldo Bacaro, 90 - Parque das Árvores": {
+  "quality": "none"
+ },
+ "Rua Reinaldo Cavenaghi, 219": {
+  "lat": -22.353231,
+  "lng": -47.3236749,
+  "label": "Rua Reinaldo Cavenaghi, Sítio São Gerônimo, Araras, São Paulo, Região Sudeste, 13602-128, Brasil",
+  "quality": "number"
+ },
+ "Rua Reverendo Alva Hardie, 164": {
+  "lat": -22.376182,
+  "lng": -47.3542855,
+  "label": "Rua Reverendo Alva Hardie, Jardim Santa Olívia III, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-790, Brasil",
+  "quality": "number"
+ },
+ "Rua Ribeirão Preto, 1026": {
+  "lat": -22.3454017,
+  "lng": -47.378541,
+  "label": "Rua Ribeirão Preto, Vila Europa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Ribeirão Preto, 1070": {
+  "lat": -22.3454017,
+  "lng": -47.378541,
+  "label": "Rua Ribeirão Preto, Vila Europa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Ribeirão Preto, 1083": {
+  "lat": -22.3454017,
+  "lng": -47.378541,
+  "label": "Rua Ribeirão Preto, Vila Europa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Ribeirão Preto, 1293": {
+  "lat": -22.3454017,
+  "lng": -47.378541,
+  "label": "Rua Ribeirão Preto, Vila Europa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Ribeirão Preto, 457": {
+  "lat": -22.3454017,
+  "lng": -47.378541,
+  "label": "Rua Ribeirão Preto, Vila Europa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Ribeirão Preto, 586-614": {
+  "lat": -22.3454017,
+  "lng": -47.378541,
+  "label": "Rua Ribeirão Preto, Vila Europa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Ribeirão Preto, 659-709": {
+  "lat": -22.3454017,
+  "lng": -47.378541,
+  "label": "Rua Ribeirão Preto, Vila Europa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Ribeirão Preto, 859": {
+  "lat": -22.3454017,
+  "lng": -47.378541,
+  "label": "Rua Ribeirão Preto, Vila Europa, Chácara Municipal, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Rio Grande do Norte, 101-163": {
+  "lat": -22.3746943,
+  "lng": -47.3912613,
+  "label": "Rua Rio Grande do Norte, Parque Industrial, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-351, Brasil",
+  "quality": "number"
+ },
+ "Rua Rio Grande do Norte, 144": {
+  "lat": -22.3746943,
+  "lng": -47.3912613,
+  "label": "Rua Rio Grande do Norte, Parque Industrial, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-351, Brasil",
+  "quality": "number"
+ },
+ "Rua Rio Grande do Sul, 933-975 - Parque Industrial": {
+  "lat": -22.3712343,
+  "lng": -47.3901111,
+  "label": "Rua Rio Grande do Sul, Jardim Belvedere, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Rivaldo Cornia, 106": {
+  "lat": -22.3639692,
+  "lng": -47.3370742,
+  "label": "Rua Rivaldo Córnia, Jardim Itamaraty, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-423, Brasil",
+  "quality": "number"
+ },
+ "Rua Romeu Bascheira, 121": {
+  "lat": -22.3350094,
+  "lng": -47.3839405,
+  "label": "Rua Romeu Bascheira, Jardim Nova Europa, Parque das Árvores, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-186, Brasil",
+  "quality": "number"
+ },
+ "Rua Rondônia, 2-102": {
+  "lat": -22.3725428,
+  "lng": -47.3882504,
+  "label": "Rua Rondônia, Jardim Marabá, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Rosa Peixoto Grachet, 267": {
+  "lat": -22.3635393,
+  "lng": -47.3394107,
+  "label": "Rua Rosa Peixoto Grachet, Jardim Itamaraty, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-020, Brasil",
+  "quality": "number"
+ },
+ "Rua Rua Adão Cacemiro, 28": {
+  "lat": -22.3776437,
+  "lng": -47.3539969,
+  "label": "Rua Adão Cacemiro de Moraes, Jardim Santa Olívia III, Heitor Villa Lobos, Araras, São Paulo, Região Sudeste, 13607-790, Brasil",
+  "quality": "number"
+ },
+ "Rua Santa Catarina, 620": {
+  "lat": -22.3779805,
+  "lng": -47.3901123,
+  "label": "Avenida Presidente Juscelino Kubitschek, Chácara Riachuello, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-351, Brasil",
+  "quality": "number"
+ },
+ "Rua Santa Cruz, 1077-1171": {
+  "lat": -22.359322,
+  "lng": -47.3874548,
+  "label": "Rua Santa Cruz, Chácara Fachini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13602-034, Brasil",
+  "quality": "number"
+ },
+ "Rua Santa Cruz, 215-299": {
+  "lat": -22.359322,
+  "lng": -47.3874548,
+  "label": "Rua Santa Cruz, Chácara Fachini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13602-034, Brasil",
+  "quality": "number"
+ },
+ "Rua Santa Cruz, 429": {
+  "lat": -22.359322,
+  "lng": -47.3874548,
+  "label": "Rua Santa Cruz, Chácara Fachini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13602-034, Brasil",
+  "quality": "number"
+ },
+ "Rua Santo Siviero, 765": {
+  "quality": "none"
+ },
+ "Rua Santos, 1053": {
+  "lat": -22.3392407,
+  "lng": -47.3750699,
+  "label": "Rua Santos, Jardim Colina, Jardim Campos Verdes, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-186, Brasil",
+  "quality": "number"
+ },
+ "Rua Santos, 382": {
+  "lat": -22.3392407,
+  "lng": -47.3750699,
+  "label": "Rua Santos, Jardim Colina, Jardim Campos Verdes, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-186, Brasil",
+  "quality": "number"
+ },
+ "Rua Santos, 843": {
+  "lat": -22.3392407,
+  "lng": -47.3750699,
+  "label": "Rua Santos, Jardim Colina, Jardim Campos Verdes, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13604-186, Brasil",
+  "quality": "number"
+ },
+ "Rua São Carlos, 74-134": {
+  "lat": -22.347535,
+  "lng": -47.3765202,
+  "label": "Rua São Carlos, Jardim Mário Leite de Castro, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-515, Brasil",
+  "quality": "number"
+ },
+ "Rua Sebastião dos Santos, 132 Vila Dona Rosa": {
+  "lat": -22.3764218,
+  "lng": -47.3856175,
+  "label": "Rua Sebastião dos Santos, Jardim Vila São Jorge, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Sebastião dos Santos, 2-30": {
+  "lat": -22.3764218,
+  "lng": -47.3856175,
+  "label": "Rua Sebastião dos Santos, Jardim Vila São Jorge, Vila Dona Rosa Zurita, Araras, São Paulo, Região Sudeste, 13601-361, Brasil",
+  "quality": "number"
+ },
+ "Rua Senador Franco Lacerda, 379": {
+  "lat": -22.353942,
+  "lng": -47.3864011,
+  "label": "Rua Senador Lacerda Franco, Vila Franzini, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-150, Brasil",
+  "quality": "number"
+ },
+ "Rua Sergio Henrique de Oliveira, 140": {
+  "lat": -22.3618449,
+  "lng": -47.341768,
+  "label": "Rua Sergio Henrique de Oliveira, Villagio Loreto, Araras, São Paulo, Região Sudeste, 13606-020, Brasil",
+  "quality": "number"
+ },
+ "Rua Silva Jardim, 1-103": {
+  "lat": -22.3594494,
+  "lng": -47.386936,
+  "label": "Rua Silva Jardim, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-901, Brasil",
+  "quality": "number"
+ },
+ "Rua Silvia Teles, 2-100": {
+  "lat": -22.3583105,
+  "lng": -47.3830488,
+  "label": "Rua Silvia Teles, Chácara Paraíso, Chácara Municipal, Centro, Araras, São Paulo, Região Sudeste, 13600-040, Brasil",
+  "quality": "number"
+ },
+ "Rua Silvino Gagliarde, 191": {
+  "quality": "none"
+ },
+ "Rua Silvino Gagliarde, 227": {
+  "quality": "none"
+ },
+ "Rua Silvino Gagliarde, 601": {
+  "quality": "none"
+ },
+ "Rua Tapajós - SENAI": {
+  "lat": -22.360648,
+  "lng": -47.3765793,
+  "label": "Avenida Ignácio Zurita Neto, Chácara São José, Vila Michelin, Centro, Araras, São Paulo, Região Sudeste, 13601-000, Brasil",
+  "quality": "street"
+ },
+ "Rua Tapuias, 228": {
+  "lat": -22.3612636,
+  "lng": -47.3716071,
+  "label": "Rua Tapuias, Vila Candinha, Vila Michelin, Centro, Araras, São Paulo, Região Sudeste, 13607-010, Brasil",
+  "quality": "number"
+ },
+ "Rua Tapuias, 439": {
+  "lat": -22.3669671,
+  "lng": -47.3683765,
+  "label": "Rua Tapuias, Jardim Santo André, Bairro do Campinho, Araras, São Paulo, Região Sudeste, 13607-213, Brasil",
+  "quality": "number"
+ },
+ "Rua Tapuias, 509": {
+  "lat": -22.363931,
+  "lng": -47.3701268,
+  "label": "Rua Tapuias, Jardim Nossa Senhora de Fátima, Vila Michelin, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13607-060, Brasil",
+  "quality": "number"
+ },
+ "Rua Teresa de Oliveira Silva, 242-296": {
+  "quality": "none"
+ },
+ "Rua Teresa de Oliveira Silva, 66-124": {
+  "quality": "none"
+ },
+ "Rua Tulipas - Saema": {
+  "lat": -22.3643,
+  "lng": -47.3966125,
+  "label": "Rua das Tulipas, Jardim São Luis, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13602-014, Brasil",
+  "quality": "street"
+ },
+ "Rua Valdemar de Ponte, 77": {
+  "quality": "none"
+ },
+ "Rua Valter de Sá Andrade, 575-653": {
+  "quality": "none"
+ },
+ "Rua Venâncio Pádula, 671-753": {
+  "lat": -22.3525132,
+  "lng": -47.3962007,
+  "label": "Rua Venâncio Pádula, Jardim Cândida, Jardim Alto das Araras, Araras, São Paulo, Região Sudeste, 13603-019, Brasil",
+  "quality": "number"
+ },
+ "Rua Vereador Cesário Coimbra, 301-395": {
+  "quality": "none"
+ },
+ "Rua Vereador de Eolo Camargo Preto, 370-464": {
+  "quality": "none"
+ },
+ "Rua Vitória Régia, 1030": {
+  "lat": -22.3673997,
+  "lng": -47.405543,
+  "label": "Rua Vitória Régia, Loteamento Industrial, Centro, Araras, São Paulo, Região Sudeste, 13602-060, Brasil",
+  "quality": "number"
+ },
+ "Rua Vitória Régia, 445": {
+  "lat": -22.3673997,
+  "lng": -47.405543,
+  "label": "Rua Vitória Régia, Loteamento Industrial, Centro, Araras, São Paulo, Região Sudeste, 13602-060, Brasil",
+  "quality": "number"
+ },
+ "Rua Vivaldo Storoli, 85": {
+  "quality": "none"
+ },
+ "Rua Viviane Cristina Hepfner, 51-95": {
+  "lat": -22.3613574,
+  "lng": -47.3307332,
+  "label": "Rua Viviane Cristina Hepfner, Conjunto Habitacional Jardim José Ometto II, Jardim Campo Belo, Araras, São Paulo, Região Sudeste, 13606-423, Brasil",
+  "quality": "number"
+ },
+ "São Bento": {
+  "lat": -22.2513075,
+  "lng": -47.3639716,
+  "label": "São Bento, Araras, São Paulo, Região Sudeste, 13612-101, Brasil",
+  "quality": "text"
+ },
+ "Universidade Federal de São Carlos, UFSCar - Campus Araras": {
+  "quality": "none"
+ }
+}
